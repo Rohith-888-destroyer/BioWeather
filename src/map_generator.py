@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
@@ -60,7 +61,9 @@ def generate_interactive_map(df, output_html="docs/latest_map.html"):
     )
 
     fig.write_html(output_html)
-    print(f"Saved interactive map: {output_html}")
+    # Also save to root for zero-config Vercel deployment
+    fig.write_html("latest_map.html")
+    print(f"Saved interactive map: {output_html} & latest_map.html")
     return fig
 
 def generate_static_png(fig, df, output_png="docs/latest_map.png"):
@@ -68,6 +71,7 @@ def generate_static_png(fig, df, output_png="docs/latest_map.png"):
     os.makedirs(os.path.dirname(output_png), exist_ok=True)
     try:
         fig.write_image(output_png, width=1200, height=630, scale=2)
+        fig.write_image("latest_map.png", width=1200, height=630, scale=2)
         print(f"Successfully generated static PNG via Plotly/kaleido: {output_png}")
     except Exception as e:
         print(f"Plotly write_image unavailable ({e}). Generating fallback static image...")
@@ -89,7 +93,8 @@ def generate_static_png(fig, df, output_png="docs/latest_map.png"):
             draw.ellipse([x - r, y - r, x + r, y + r], fill=c, outline="#ffffff")
 
         img.save(output_png)
-        print(f"Saved fallback static PNG: {output_png}")
+        img.save("latest_map.png")
+        print(f"Saved fallback static PNG: {output_png} & latest_map.png")
 
 def export_embedded_js_data(df, output_js="docs/data_embedded.js"):
     """Export dataset as JS variable for standalone web app fallback."""
@@ -97,7 +102,9 @@ def export_embedded_js_data(df, output_js="docs/data_embedded.js"):
     js_content = f"window.EMBEDDED_BIO_DATA = {json.dumps(records, indent=2)};"
     with open(output_js, "w") as f:
         f.write(js_content)
-    print(f"Saved embedded web app data payload: {output_js}")
+    with open("data_embedded.js", "w") as f:
+        f.write(js_content)
+    print(f"Saved embedded web app data payload: {output_js} & data_embedded.js")
 
 def run_map_generation(csv_path="data/processed/risk_predictions.csv", docs_dir="docs"):
     """Load risk predictions and generate interactive and static map artifacts."""
@@ -111,6 +118,10 @@ def run_map_generation(csv_path="data/processed/risk_predictions.csv", docs_dir=
     fig = generate_interactive_map(df, output_html=output_html)
     generate_static_png(fig, df, output_png=output_png)
     export_embedded_js_data(df, os.path.join(docs_dir, "data_embedded.js"))
+
+    # Copy CSS and JS to root for zero-config Vercel deployment
+    shutil.copy(os.path.join(docs_dir, "styles.css"), "styles.css")
+    shutil.copy(os.path.join(docs_dir, "app.js"), "app.js")
     print("Map and Web App artifact generation completed successfully.")
 
 if __name__ == "__main__":

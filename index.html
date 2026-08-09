@@ -2,11 +2,186 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta http-equiv="refresh" content="0; url=docs/index.html">
-  <title>BioWeather - Redirecting to Dashboard...</title>
-  <script>window.location.href = "docs/index.html";</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BioWeather - Real-Time Global Disease Outbreak Risk Forecaster</title>
+  <meta name="description" content="BioWeather is a 24/7 autonomous real-time disease outbreak risk forecaster created by Rohith Ashwa Vardhan. Uses Open-Meteo & NASA POWER telemetry with PyTorch neural networks to predict Dengue and Malaria vector transmission risks across 47 global urban regions.">
+  <meta name="keywords" content="BioWeather, Disease Outbreak Forecaster, Dengue Risk Map, Malaria Forecast, Rohith Ashwa Vardhan, Real-time Epidemiology, Vector Suitability, Climate Risk Model, PyTorch Outbreak Model">
+  <meta name="author" content="Rohith Ashwa Vardhan">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph / Facebook / LinkedIn Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="BioWeather - Real-Time Global Outbreak Risk Forecaster">
+  <meta property="og:description" content="24/7 Autonomous Disease Outbreak Risk Forecaster created by Rohith Ashwa Vardhan. Monitors 47 global regions for Dengue, Malaria, and Zika transmission suitability.">
+  <meta property="og:image" content="latest_map.png">
+  <meta property="og:site_name" content="BioWeather">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="BioWeather - Real-Time Global Outbreak Risk Forecaster">
+  <meta name="twitter:description" content="24/7 Autonomous Disease Outbreak Risk Forecaster created by Rohith Ashwa Vardhan. Powered by PyTorch & Open-Meteo telemetry.">
+  <meta name="twitter:image" content="latest_map.png">
+
+  <!-- Fonts & Stylesheet -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+
+  <!-- Schema.org JSON-LD Structured Data for Google Indexing -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "BioWeather Outbreak Forecaster",
+    "alternateName": "BioWeather",
+    "author": {
+      "@type": "Person",
+      "name": "Rohith Ashwa Vardhan"
+    },
+    "creator": {
+      "@type": "Person",
+      "name": "Rohith Ashwa Vardhan"
+    },
+    "description": "Autonomous global disease-outbreak-risk forecaster monitoring climate suitability for vector-borne diseases.",
+    "applicationCategory": "HealthApplication",
+    "operatingSystem": "All"
+  }
+  </script>
 </head>
 <body>
-  <p>Redirecting to <a href="docs/index.html">BioWeather Real-Time Outbreak Forecaster Dashboard</a>...</p>
+
+  <!-- Top Real-Time Ticker Bar -->
+  <div class="ticker-bar">
+    <div class="ticker-content">
+      <span>🔴 LIVE OUTBREAK ALERT: <strong>High Risk Zones Active</strong></span>
+      <span>•</span>
+      <span>⚡ Real-Time Ingestion Active</span>
+      <span>•</span>
+      <span>🕒 System UTC Clock: <strong id="utc-clock">00:00:00 UTC</strong></span>
+      <span>•</span>
+      <span>⏳ Auto-Refresh In: <strong id="refresh-counter">60s</strong></span>
+    </div>
+  </div>
+
+  <!-- Navigation Bar -->
+  <header class="navbar">
+    <div class="brand">
+      <span class="brand-icon">🦟</span>
+      <span class="brand-title">BioWeather</span>
+      <span class="brand-sub">24/7 Real-Time Forecaster</span>
+    </div>
+    <div class="nav-right">
+      <div class="live-badge">
+        <span class="pulse-dot"></span>
+        <span>STREAMING TELEMETRY</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main App Container -->
+  <main class="container">
+
+    <!-- SEO Main Heading -->
+    <h1 style="position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); border: 0;">BioWeather - 24/7 Real-Time Global Disease Outbreak Risk Forecaster by Rohith Ashwa Vardhan</h1>
+
+    <!-- Stat Telemetry Cards -->
+    <section class="stats-grid">
+      <div class="stat-card">
+        <div class="stat-label">Monitored Regions</div>
+        <div class="stat-value" id="stat-total">47</div>
+        <div class="stat-sub">Global urban centers</div>
+      </div>
+      <div class="stat-card" style="border-top: 3px solid var(--risk-high);">
+        <div class="stat-label">High Risk Zones</div>
+        <div class="stat-value" id="stat-high" style="color: var(--risk-high);">--</div>
+        <div class="stat-sub">Transmission suitability ≥ 0.65</div>
+      </div>
+      <div class="stat-card" style="border-top: 3px solid var(--risk-medium);">
+        <div class="stat-label">Medium Risk Zones</div>
+        <div class="stat-value" id="stat-med" style="color: var(--risk-medium);">--</div>
+        <div class="stat-sub">Moderate climate risk</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Avg 14d Temperature</div>
+        <div class="stat-value" id="stat-avg-temp">--</div>
+        <div class="stat-sub">Global mean</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-label">Avg Relative Humidity</div>
+        <div class="stat-value" id="stat-avg-hum">--</div>
+        <div class="stat-sub">Global mean</div>
+      </div>
+    </section>
+
+    <!-- Interactive Global Map Section -->
+    <section class="map-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span>🗺️</span> Global Vector Transmission Suitability Map
+        </h2>
+      </div>
+      <div class="map-container">
+        <iframe class="map-frame" src="latest_map.html" title="Interactive BioWeather Outbreak Risk Map"></iframe>
+      </div>
+    </section>
+
+    <!-- Controls Bar -->
+    <section class="controls-bar">
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="search-input" class="search-input" placeholder="Search city, country, or disease (e.g. Dengue, Kolkata, Mumbai, Manila)...">
+      </div>
+      <div class="filter-pills">
+        <button class="pill active" data-filter="ALL">All Tiers</button>
+        <button class="pill" data-filter="HIGH">High Risk 🔴</button>
+        <button class="pill" data-filter="MEDIUM">Medium Risk 🟠</button>
+        <button class="pill" data-filter="LOW">Low Risk 🟢</button>
+      </div>
+    </section>
+
+    <!-- Region Cards Grid -->
+    <section class="cards-grid" id="cards-grid">
+      <!-- Dynamically populated via app.js -->
+    </section>
+
+    <!-- Detailed Data Table Section -->
+    <section class="table-section">
+      <div class="section-header">
+        <h2 class="section-title">
+          <span>📊</span> Detailed Real-Time Telemetry & Outbreak Risk Table
+        </h2>
+      </div>
+      <div class="table-wrapper">
+        <table class="data-table" id="data-table">
+          <thead>
+            <tr>
+              <th>Region</th>
+              <th>Country</th>
+              <th>Endemic Focus</th>
+              <th>14d Temp</th>
+              <th>Humidity</th>
+              <th>14d Precip</th>
+              <th>R₀ Proxy</th>
+              <th>Risk Score</th>
+              <th>Risk Tier</th>
+            </tr>
+          </thead>
+          <tbody id="table-body">
+            <!-- Dynamically populated via app.js -->
+          </tbody>
+        </table>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <p>BioWeather 24/7 Real-Time Outbreak Forecaster • Developed & Created by <strong>Rohith Ashwa Vardhan</strong> • Powered by Open-Meteo & NASA POWER Telemetry • PyTorch Deep Learning Risk Model</p>
+  </footer>
+
+  <script src="data_embedded.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
