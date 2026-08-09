@@ -1,0 +1,76 @@
+name: BioWeather 24/7 Real-Time Outbreak Risk Forecast
+
+on:
+  schedule:
+    # Run automatically every hour on the hour (24/7 Real-Time Execution)
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  run-forecast:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 1. Real-Time Telemetry Ingestion
+        run: python src/ingest.py
+
+      - name: 2. Engineer Epidemiological Features
+        run: python src/features.py
+
+      - name: 3. Run PyTorch Outbreak Risk Inference
+        run: python models/infer.py
+
+      - name: 4. Generate Interactive & Static Risk Maps
+        run: python src/map_generator.py
+
+      - name: 5. Dispatch Webhook Outbreak Alerts (If Configured)
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python src/alert_notifier.py
+
+      - name: 6. Update Self-Updating README
+        run: python src/update_readme.py
+
+      - name: Commit & Push Updated Forecast Artifacts
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore(auto): update hourly 24/7 BioWeather real-time forecast telemetry [skip ci]"
+          file_pattern: 'data/ docs/ README.md'
+
+  deploy-pages:
+    needs: run-forecast
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'docs/'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/climate_raw_*.json
+!data/raw/latest.json
