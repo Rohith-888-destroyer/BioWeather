@@ -46,6 +46,8 @@ def assign_risk_tier(score):
 def run_inference(feature_csv="data/processed/features_latest.csv", model_path="models/bioweather_model.pt", output_dir="data/processed"):
     """Load latest processed features, execute PyTorch inference, and save predictions."""
     os.makedirs(output_dir, exist_ok=True)
+    os.makedirs("docs/data/processed", exist_ok=True)
+
     if not os.path.exists(feature_csv):
         raise FileNotFoundError(f"Feature CSV {feature_csv} not found. Run features.py first.")
     if not os.path.exists(model_path):
@@ -72,15 +74,20 @@ def run_inference(feature_csv="data/processed/features_latest.csv", model_path="
     # Save outputs
     output_csv = os.path.join(output_dir, "risk_predictions.csv")
     output_json = os.path.join(output_dir, "risk_predictions.json")
+    docs_json = os.path.join("docs/data/processed", "risk_predictions.json")
     
     df.to_csv(output_csv, index=False)
     
     records = df.to_dict(orient="records")
+    payload = {"total_regions": len(records), "predictions": records}
+    
     with open(output_json, "w") as f:
-        json.dump({"total_regions": len(records), "predictions": records}, f, indent=2)
+        json.dump(payload, f, indent=2)
+    with open(docs_json, "w") as f:
+        json.dump(payload, f, indent=2)
 
     print(f"Successfully generated outbreak risk predictions for {len(df)} regions.")
-    print(f"Saved: {output_csv} & {output_json}")
+    print(f"Saved: {output_csv}, {output_json}, & {docs_json}")
     return df
 
 if __name__ == "__main__":
