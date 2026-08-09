@@ -5,19 +5,20 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Automation](https://img.shields.io/badge/Automation-GitHub_Actions-2088FF.svg)
 
-**BioWeather** is a fully autonomous, self-updating global disease-outbreak-risk forecaster focused on climate-driven vector-borne diseases (such as Dengue, Malaria, Chikungunya, and Zika). 
+**BioWeather** is a fully autonomous, self-updating global disease-outbreak-risk forecaster created by **Rohith Ashwa Vardhan**. It monitors climate-driven vector-borne diseases (such as Dengue, Malaria, Chikungunya, and Zika). 
 
-Every week, a scheduled **GitHub Action** automatically pulls fresh global climate telemetry from open APIs, engineers epidemiological suitability features, runs a trained **PyTorch deep learning model**, generates interactive & static risk maps, and commits the updated intelligence directly back to this repository—**requiring zero manual intervention**.
+Every hour, a scheduled **GitHub Action** automatically pulls fresh global climate telemetry from open APIs, engineers epidemiological suitability features, runs a trained **PyTorch deep learning model**, generates interactive & static risk maps, and commits the updated intelligence directly back to this repository—**requiring zero manual intervention**.
 
 ---
 
-## 🛰️ Latest Outbreak Risk Forecast
+## 🛰️ Real-Time Outbreak Risk Forecast
 
 <!-- RISK_MAP_START -->
 
-### 🌍 Weekly Vector Transmission Risk Summary
-**Last Updated:** `2026-08-09 11:01:19 UTC`  
-**Monitored Regions:** `47` global urban & endemic centers
+### 🌍 Real-Time Vector Transmission Risk Summary
+**Last Updated:** `2026-08-09 11:21:00 UTC`  
+**Monitored Regions:** `47` global urban & endemic centers  
+**Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
@@ -95,7 +96,7 @@ The BioWeather forecast pipeline follows a 5-tier architecture:
 ```
 
 ### 1. Data Ingestion (`src/ingest.py`)
-- Ingests 14-day historical and 7-day forecast climate series across **35 representative global urban centers**, with heavy weighting toward Dengue/Malaria endemic regions (South & SE Asia, Sub-Saharan Africa, Latin America & Caribbean).
+- Ingests 14-day historical and 7-day forecast climate series across **47 representative global urban centers** (including 14 major Indian cities), with heavy weighting toward Dengue/Malaria endemic regions (South & SE Asia, Sub-Saharan Africa, Latin America & Caribbean).
 - Primary Source: **Open-Meteo API** (Keyless, high-resolution global telemetry).
 - Fallback Source: **NASA POWER API** (Keyless solar & meteorological archive).
 - Features automatic retries with exponential backoff and persistent raw payload logging in `data/raw/`.
@@ -155,6 +156,12 @@ python models/infer.py
 python src/map_generator.py
 python src/update_readme.py
 ```
+
+---
+
+## 👨‍💻 Project Lead & Attribution
+
+**Created & Developed by:** **Rohith Ashwa Vardhan**
 
 ---
 

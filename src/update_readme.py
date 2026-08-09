@@ -18,9 +18,10 @@ def format_risk_summary(predictions_csv="data/processed/risk_predictions.csv"):
     now_str = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
 
     summary_html = f"""
-### 🌍 Weekly Vector Transmission Risk Summary
+### 🌍 Real-Time Vector Transmission Risk Summary
 **Last Updated:** `{now_str}`  
-**Monitored Regions:** `{total}` global urban & endemic centers
+**Monitored Regions:** `{total}` global urban & endemic centers  
+**Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
