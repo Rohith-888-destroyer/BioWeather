@@ -1,0 +1,7 @@
+# Ignore Python backend scripts & models so Vercel builds as static HTML website
+src/
+models/
+notebooks/
+data/raw/
+*.py
+requirements.txt
