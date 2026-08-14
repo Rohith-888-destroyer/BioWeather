@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-14 15:44:19 UTC`  
+**Last Updated:** `2026-08-14 18:43:34 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `34` | `72.3%` |
+| 🔴 **High Risk** | `33` | `70.2%` |
 | 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `8` | `17.0%` |
+| 🟢 **Low Risk** | `9` | `19.1%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -45,16 +45,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Jaipur** | India | Dengue/Malaria | 27.8°C | 82.9% | `0.83` |
 | **Colombo** | Sri Lanka | Dengue | 27.12°C | 82.05% | `0.82` |
 | **Patna** | India | Dengue/Kala-azar | 29.47°C | 83.19% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 24.93°C | 84.24% | `0.82` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.3°C | 80.33% | `0.81` |
 | **Veracruz** | Mexico | Dengue | 27.9°C | 80.24% | `0.81` |
-| **Tokyo** | Japan | Low Baseline | 26.02°C | 80.48% | `0.81` |
+| **Tokyo** | Japan | Low Baseline | 26.0°C | 80.71% | `0.81` |
 | **Pune** | India | Dengue/Zika | 24.1°C | 85.24% | `0.81` |
 | **Accra** | Ghana | Malaria | 25.25°C | 81.57% | `0.81` |
 | **Ahmedabad** | India | Dengue/Malaria | 28.44°C | 78.86% | `0.80` |
 | **San Juan** | Puerto Rico | Dengue | 28.22°C | 78.24% | `0.79` |
 | **Singapore** | Singapore | Dengue | 28.06°C | 77.9% | `0.79` |
-| **Miami** | United States | Low Baseline | 28.81°C | 77.05% | `0.77` |
+| **Miami** | United States | Low Baseline | 28.85°C | 76.67% | `0.77` |
 | **Hyderabad** | India | Dengue/Malaria | 26.13°C | 75.52% | `0.77` |
 | **Cartagena** | Colombia | Dengue | 29.34°C | 76.67% | `0.76` |
 | **Havana** | Cuba | Dengue | 28.86°C | 73.76% | `0.74` |
