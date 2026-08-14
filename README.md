@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-14 20:23:54 UTC`  
+**Last Updated:** `2026-08-14 22:00:40 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -45,7 +45,6 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Jaipur** | India | Dengue/Malaria | 27.82°C | 82.48% | `0.83` |
 | **Colombo** | Sri Lanka | Dengue | 27.17°C | 81.76% | `0.82` |
 | **Veracruz** | Mexico | Dengue | 27.79°C | 81.0% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 24.92°C | 84.38% | `0.82` |
 | **Patna** | India | Dengue/Kala-azar | 29.49°C | 83.05% | `0.82` |
 | **Tokyo** | Japan | Low Baseline | 25.94°C | 81.1% | `0.81` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.3°C | 80.14% | `0.81` |
@@ -54,15 +53,16 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Ahmedabad** | India | Dengue/Malaria | 28.44°C | 78.67% | `0.80` |
 | **Singapore** | Singapore | Dengue | 28.06°C | 78.33% | `0.79` |
 | **San Juan** | Puerto Rico | Dengue | 28.22°C | 78.29% | `0.79` |
-| **Dakar** | Senegal | Malaria | 28.51°C | 77.29% | `0.78` |
-| **Miami** | United States | Low Baseline | 28.86°C | 76.71% | `0.77` |
+| **Miami** | United States | Low Baseline | 28.85°C | 76.81% | `0.77` |
 | **Hyderabad** | India | Dengue/Malaria | 26.14°C | 75.38% | `0.77` |
 | **Cartagena** | Colombia | Dengue | 29.36°C | 76.43% | `0.76` |
 | **Havana** | Cuba | Dengue | 28.93°C | 73.33% | `0.73` |
 | **Bengaluru** | India | Dengue | 23.44°C | 78.81% | `0.73` |
 | **Dar es Salaam** | Tanzania | Malaria | 24.68°C | 73.81% | `0.72` |
 | **Tegucigalpa** | Honduras | Dengue | 23.52°C | 76.19% | `0.71` |
+| **Guayaquil** | Ecuador | Dengue | 27.65°C | 68.71% | `0.70` |
 | **Chennai** | India | Dengue/Chikungunya | 30.06°C | 70.76% | `0.68` |
+| **Rio de Janeiro** | Brazil | Dengue | 22.78°C | 77.24% | `0.68` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
