@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-16 15:52:12 UTC`  
+**Last Updated:** `2026-08-16 17:03:12 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `34` | `72.3%` |
+| 🔴 **High Risk** | `31` | `66.0%` |
 | 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `8` | `17.0%` |
+| 🟢 **Low Risk** | `11` | `23.4%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -41,9 +41,8 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Lagos** | Nigeria | Malaria | 25.85°C | 84.76% | `0.83` |
 | **Mumbai** | India | Dengue/Malaria | 27.23°C | 83.1% | `0.83` |
 | **Jaipur** | India | Dengue/Malaria | 27.83°C | 82.57% | `0.83` |
-| **Colombo** | Sri Lanka | Dengue | 27.17°C | 82.14% | `0.82` |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.89°C | 81.95% | `0.82` |
-| **Veracruz** | Mexico | Dengue | 27.81°C | 80.76% | `0.82` |
+| **Colombo** | Sri Lanka | Dengue | 27.17°C | 82.14% | `0.82` |
 | **Tokyo** | Japan | Low Baseline | 25.62°C | 81.95% | `0.82` |
 | **Patna** | India | Dengue/Kala-azar | 29.59°C | 82.48% | `0.81` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.42°C | 79.62% | `0.81` |
@@ -54,9 +53,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Ahmedabad** | India | Dengue/Malaria | 28.56°C | 77.24% | `0.78` |
 | **Dakar** | Senegal | Malaria | 28.8°C | 77.05% | `0.77` |
 | **Miami** | United States | Low Baseline | 28.98°C | 77.14% | `0.77` |
-| **Cartagena** | Colombia | Dengue | 29.38°C | 76.71% | `0.76` |
 | **Hyderabad** | India | Dengue/Malaria | 26.28°C | 74.29% | `0.76` |
-| **Dar es Salaam** | Tanzania | Malaria | 24.67°C | 75.1% | `0.74` |
 | **Havana** | Cuba | Dengue | 28.87°C | 73.48% | `0.74` |
 | **Bengaluru** | India | Dengue | 23.61°C | 76.9% | `0.72` |
 | **Tegucigalpa** | Honduras | Dengue | 23.41°C | 76.76% | `0.71` |
