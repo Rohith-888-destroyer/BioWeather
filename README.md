@@ -16,52 +16,52 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-16 19:50:04 UTC`  
+**Last Updated:** `2026-08-16 20:59:10 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
 | 🔴 **High Risk** | `32` | `68.1%` |
-| 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `10` | `21.3%` |
+| 🟠 **Medium Risk** | `4` | `8.5%` |
+| 🟢 **Low Risk** | `11` | `23.4%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Yangon** | Myanmar | Malaria/Dengue | 26.36°C | 91.71% | `0.88` |
-| **Bhubaneswar** | India | Malaria/Dengue | 28.1°C | 88.76% | `0.86` |
-| **Kolkata** | India | Dengue/Malaria | 28.35°C | 88.05% | `0.86` |
-| **Panama City** | Panama | Dengue | 27.22°C | 87.14% | `0.86` |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 25.71°C | 88.29% | `0.85` |
+| **Bhubaneswar** | India | Malaria/Dengue | 28.1°C | 89.05% | `0.86` |
+| **Kolkata** | India | Dengue/Malaria | 28.35°C | 87.95% | `0.86` |
+| **Panama City** | Panama | Dengue | 27.22°C | 86.9% | `0.85` |
+| **Guwahati** | India | Malaria/JE | 28.45°C | 86.81% | `0.85` |
+| **Thiruvananthapuram** | India | Dengue/Chikungunya | 25.71°C | 88.24% | `0.85` |
 | **Manila** | Philippines | Dengue | 26.92°C | 86.14% | `0.85` |
 | **New Delhi** | India | Dengue/Chikungunya | 28.65°C | 86.1% | `0.85` |
-| **Dhaka** | Bangladesh | Dengue | 28.36°C | 85.81% | `0.85` |
-| **Mumbai** | India | Dengue/Malaria | 27.23°C | 83.1% | `0.83` |
-| **Jaipur** | India | Dengue/Malaria | 27.83°C | 82.57% | `0.83` |
-| **Colombo** | Sri Lanka | Dengue | 27.17°C | 82.14% | `0.82` |
-| **Ho Chi Minh City** | Vietnam | Dengue | 27.89°C | 81.95% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 25.03°C | 84.19% | `0.82` |
-| **Veracruz** | Mexico | Dengue | 27.81°C | 80.76% | `0.82` |
+| **Dhaka** | Bangladesh | Dengue | 28.36°C | 85.76% | `0.85` |
+| **Lagos** | Nigeria | Malaria | 25.85°C | 84.71% | `0.83` |
+| **Mumbai** | India | Dengue/Malaria | 27.23°C | 83.0% | `0.83` |
+| **Colombo** | Sri Lanka | Dengue | 27.17°C | 81.86% | `0.82` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 25.03°C | 84.29% | `0.82` |
+| **Veracruz** | Mexico | Dengue | 27.81°C | 80.95% | `0.82` |
 | **Tokyo** | Japan | Low Baseline | 25.66°C | 81.71% | `0.82` |
-| **Santo Domingo** | Dominican Republic | Dengue | 27.42°C | 79.62% | `0.81` |
-| **Pune** | India | Dengue/Zika | 24.09°C | 85.19% | `0.81` |
-| **Accra** | Ghana | Malaria | 25.48°C | 80.48% | `0.80` |
-| **Bangkok** | Thailand | Dengue | 28.45°C | 78.9% | `0.80` |
-| **Singapore** | Singapore | Dengue | 28.13°C | 77.33% | `0.79` |
-| **Ahmedabad** | India | Dengue/Malaria | 28.56°C | 77.24% | `0.78` |
-| **Dakar** | Senegal | Malaria | 28.8°C | 77.05% | `0.77` |
-| **Miami** | United States | Low Baseline | 29.01°C | 77.1% | `0.77` |
-| **Cartagena** | Colombia | Dengue | 29.38°C | 76.71% | `0.76` |
-| **Hyderabad** | India | Dengue/Malaria | 26.28°C | 74.29% | `0.76` |
-| **Dar es Salaam** | Tanzania | Malaria | 24.67°C | 75.1% | `0.74` |
-| **Havana** | Cuba | Dengue | 28.87°C | 73.48% | `0.74` |
-| **Bengaluru** | India | Dengue | 23.61°C | 76.9% | `0.72` |
-| **Tegucigalpa** | Honduras | Dengue | 23.41°C | 76.76% | `0.71` |
-| **Chennai** | India | Dengue/Chikungunya | 29.86°C | 71.95% | `0.70` |
-| **Rio de Janeiro** | Brazil | Dengue | 22.81°C | 76.67% | `0.67` |
-| **Jakarta** | Indonesia | Dengue | 28.8°C | 67.9% | `0.67` |
+| **Patna** | India | Dengue/Kala-azar | 29.59°C | 82.33% | `0.81` |
+| **Pune** | India | Dengue/Zika | 24.09°C | 85.14% | `0.81` |
+| **Santo Domingo** | Dominican Republic | Dengue | 27.42°C | 79.33% | `0.81` |
+| **Accra** | Ghana | Malaria | 25.48°C | 80.38% | `0.80` |
+| **Bangkok** | Thailand | Dengue | 28.45°C | 79.29% | `0.80` |
+| **San Juan** | Puerto Rico | Dengue | 28.35°C | 78.0% | `0.79` |
+| **Ahmedabad** | India | Dengue/Malaria | 28.56°C | 77.05% | `0.78` |
+| **Miami** | United States | Low Baseline | 28.98°C | 77.29% | `0.77` |
+| **Dakar** | Senegal | Malaria | 28.8°C | 76.86% | `0.77` |
+| **Cartagena** | Colombia | Dengue | 29.38°C | 77.0% | `0.76` |
+| **Hyderabad** | India | Dengue/Malaria | 26.28°C | 74.24% | `0.76` |
+| **Dar es Salaam** | Tanzania | Malaria | 24.67°C | 75.14% | `0.74` |
+| **Havana** | Cuba | Dengue | 28.87°C | 73.1% | `0.73` |
+| **Bengaluru** | India | Dengue | 23.61°C | 77.24% | `0.72` |
+| **Tegucigalpa** | Honduras | Dengue | 23.41°C | 76.52% | `0.70` |
+| **Chennai** | India | Dengue/Chikungunya | 29.86°C | 71.71% | `0.69` |
+| **Guayaquil** | Ecuador | Dengue | 27.7°C | 67.9% | `0.69` |
+| **Jakarta** | Indonesia | Dengue | 28.8°C | 67.81% | `0.67` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
