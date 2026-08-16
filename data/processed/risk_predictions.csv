@@ -33,16 +33,16 @@ DKR,Dakar,Senegal,14.7167,-17.4677,Malaria,28.78,27.1,29.8,76.71,48.9,0.7591,0.1
 ADD,Addis Ababa,Ethiopia,9.03,38.74,Malaria,14.27,13.7,14.9,86.43,214.3,0.0,1.843,0.016,Low
 MAO,Manaus,Brazil,-3.119,-60.0217,Dengue/Malaria,30.39,29.2,31.7,60.86,11.3,0.5761,0.0,0.5531,Medium
 GIG,Rio de Janeiro,Brazil,-22.9068,-43.1729,Dengue,22.82,19.6,26.3,76.67,31.7,0.6592,0.017,0.6725,High
-GYE,Guayaquil,Ecuador,-2.1894,-79.8891,Dengue,27.74,27.0,28.3,67.76,7.5,0.6774,0.0,0.6839,High
-SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,-176.57,-999.0,29.39,-141.92,-2969.13,0.0,0.0,0.0094,Low
+GYE,Guayaquil,Ecuador,-2.1894,-79.8891,Dengue,-177.49,-999.0,28.44,-143.21,-2953.01,0.0,0.0,0.0088,Low
+SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,28.37,27.4,29.2,78.05,55.9,0.7767,0.259,0.7906,High
 TGU,Tegucigalpa,Honduras,14.0723,-87.1921,Dengue,23.45,22.2,24.6,76.43,73.4,0.6841,0.434,0.7053,High
 CTG,Cartagena,Colombia,10.391,-75.4794,Dengue,29.26,26.6,30.5,77.57,52.7,0.7604,0.227,0.7709,High
 VER,Veracruz,Mexico,19.1738,-96.1342,Dengue,27.79,26.0,30.1,80.95,132.5,0.8091,1.025,0.8184,High
 PTY,Panama City,Panama,8.9824,-79.5199,Dengue,27.23,25.6,28.8,87.14,215.0,0.871,1.85,0.8557,High
 SDQ,Santo Domingo,Dominican Republic,18.4861,-69.9312,Dengue,27.41,26.6,28.9,80.1,64.6,0.8009,0.346,0.8119,High
-HAV,Havana,Cuba,23.1136,-82.3666,Dengue,-175.95,-999.0,30.34,-141.25,-2947.97,0.0,0.0,0.01,Low
-MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.0,26.9,31.6,77.05,60.9,0.7595,0.309,0.7717,High
+HAV,Havana,Cuba,23.1136,-82.3666,Dengue,28.89,27.6,29.7,73.9,35.0,0.7299,0.05,0.741,High
+MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.0,26.9,31.5,76.76,49.7,0.7566,0.197,0.7687,High
 ROM,Rome,Italy,41.9028,12.4964,Low Baseline,29.22,25.7,31.5,62.43,35.3,0.6124,0.053,0.5899,Medium
-TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,25.64,23.7,27.9,81.9,103.43,0.801,0.7343,0.8167,High
-SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,13.04,10.5,14.8,74.14,34.2,0.0,0.042,0.0123,Low
+TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,25.65,23.7,27.9,81.9,102.93,0.8011,0.7293,0.8167,High
+SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,-188.27,-999.0,15.92,-148.53,-2991.08,0.0,0.0,0.0038,Low
 CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,30.45,28.9,33.2,54.0,0.2,0.51,0.0,0.5018,Medium
