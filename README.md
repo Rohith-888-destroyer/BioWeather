@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-18 16:08:59 UTC`  
+**Last Updated:** `2026-08-18 18:06:39 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `33` | `70.2%` |
+| 🔴 **High Risk** | `31` | `66.0%` |
 | 🟠 **Medium Risk** | `4` | `8.5%` |
-| 🟢 **Low Risk** | `10` | `21.3%` |
+| 🟢 **Low Risk** | `12` | `25.5%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -41,7 +41,6 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Lagos** | Nigeria | Malaria | 25.84°C | 85.33% | `0.84` |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.68°C | 82.86% | `0.83` |
 | **Mumbai** | India | Dengue/Malaria | 27.23°C | 82.81% | `0.83` |
-| **Tokyo** | Japan | Low Baseline | 25.78°C | 82.0% | `0.82` |
 | **Veracruz** | Mexico | Dengue | 27.66°C | 81.0% | `0.82` |
 | **Patna** | India | Dengue/Kala-azar | 29.45°C | 82.9% | `0.82` |
 | **Colombo** | Sri Lanka | Dengue | 27.3°C | 81.0% | `0.82` |
@@ -53,7 +52,6 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Dakar** | Senegal | Malaria | 28.68°C | 77.81% | `0.78` |
 | **Ahmedabad** | India | Dengue/Malaria | 28.55°C | 77.0% | `0.78` |
 | **Cartagena** | Colombia | Dengue | 29.18°C | 77.86% | `0.78` |
-| **Miami** | United States | Low Baseline | 29.01°C | 77.52% | `0.78` |
 | **Singapore** | Singapore | Dengue | 28.25°C | 75.67% | `0.77` |
 | **Hyderabad** | India | Dengue/Malaria | 26.26°C | 74.0% | `0.75` |
 | **Havana** | Cuba | Dengue | 28.79°C | 73.67% | `0.74` |
