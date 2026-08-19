@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-19 08:05:47 UTC`  
+**Last Updated:** `2026-08-19 09:34:37 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -54,7 +54,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Cartagena** | Colombia | Dengue | 29.18°C | 78.1% | `0.78` |
 | **Singapore** | Singapore | Dengue | 28.11°C | 76.38% | `0.78` |
 | **Ahmedabad** | India | Dengue/Malaria | 28.56°C | 76.76% | `0.78` |
-| **Miami** | United States | Low Baseline | 29.14°C | 76.9% | `0.77` |
+| **Miami** | United States | Low Baseline | 29.15°C | 76.81% | `0.77` |
 | **Dar es Salaam** | Tanzania | Malaria | 24.8°C | 75.86% | `0.75` |
 | **Havana** | Cuba | Dengue | 28.84°C | 74.1% | `0.74` |
 | **Hyderabad** | India | Dengue/Malaria | 26.52°C | 71.95% | `0.73` |
