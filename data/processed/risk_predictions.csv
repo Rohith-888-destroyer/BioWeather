@@ -41,8 +41,8 @@ VER,Veracruz,Mexico,19.1738,-96.1342,Dengue,27.62,26.4,28.7,81.38,119.8,0.8137,0
 PTY,Panama City,Panama,8.9824,-79.5199,Dengue,27.29,25.7,28.8,88.05,226.9,0.8802,1.969,0.8605,High
 SDQ,Santo Domingo,Dominican Republic,18.4861,-69.9312,Dengue,27.55,26.8,28.9,79.86,52.2,0.7986,0.222,0.8099,High
 HAV,Havana,Cuba,23.1136,-82.3666,Dengue,28.65,25.9,29.7,75.0,49.9,0.7437,0.199,0.7549,High
-MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.14,27.2,30.4,77.1,22.05,0.7576,0.0,0.7692,High
-ROM,Rome,Italy,41.9028,12.4964,Low Baseline,28.78,26.8,31.5,62.67,11.3,0.6201,0.0,0.6044,Medium
-TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,26.25,23.8,29.1,82.67,113.58,0.8184,0.8358,0.8283,High
-SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,-187.33,-999.0,18.04,-144.39,-2988.64,0.0,0.0,0.0044,Low
-CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,30.14,27.7,33.2,56.24,0.2,0.5373,0.0,0.5278,Medium
+MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.15,27.2,30.4,77.1,22.05,0.7576,0.0,0.7691,High
+ROM,Rome,Italy,41.9028,12.4964,Low Baseline,28.9,26.8,31.5,62.71,9.5,0.6193,0.0,0.6027,Medium
+TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,-180.04,-999.0,25.88,-131.09,-2860.01,0.0,0.0,0.0073,Low
+SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,14.2,12.6,17.2,76.57,29.2,0.0,0.0,0.0171,Low
+CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,30.14,27.7,33.2,56.29,0.2,0.5378,0.0,0.5283,Medium

@@ -1,5 +1,5 @@
 {
-  "ingested_at": "20260824_210621",
+  "ingested_at": "20260824_225825",
   "region_count": 47,
   "data": [
     {
@@ -10,9 +10,9 @@
       "lon": 77.209,
       "endemic_focus": "Dengue/Chikungunya",
       "climate": {
-        "current_temp": 27.8,
+        "current_temp": 27.1,
         "current_humidity": 93,
-        "current_precip": 0.0,
+        "current_precip": 0.1,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -116,9 +116,9 @@
       "lon": 72.8777,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 26.3,
-        "current_humidity": 90,
-        "current_precip": 0.0,
+        "current_temp": 25.9,
+        "current_humidity": 88,
+        "current_precip": 0.1,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -222,8 +222,8 @@
       "lon": 88.3639,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 26.9,
-        "current_humidity": 90,
+        "current_temp": 26.4,
+        "current_humidity": 92,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -328,8 +328,8 @@
       "lon": 80.2707,
       "endemic_focus": "Dengue/Chikungunya",
       "climate": {
-        "current_temp": 26.0,
-        "current_humidity": 89,
+        "current_temp": 26.1,
+        "current_humidity": 87,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -434,9 +434,9 @@
       "lon": 77.5946,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 20.4,
-        "current_humidity": 97,
-        "current_precip": 0.2,
+        "current_temp": 20.5,
+        "current_humidity": 98,
+        "current_precip": 0.0,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -540,7 +540,7 @@
       "lon": 78.4867,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 24.3,
+        "current_temp": 24.0,
         "current_humidity": 85,
         "current_precip": 0.0,
         "time": [
@@ -646,8 +646,8 @@
       "lon": 72.5714,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 27.8,
-        "current_humidity": 79,
+        "current_temp": 27.0,
+        "current_humidity": 82,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -752,8 +752,8 @@
       "lon": 73.8567,
       "endemic_focus": "Dengue/Zika",
       "climate": {
-        "current_temp": 22.9,
-        "current_humidity": 90,
+        "current_temp": 22.7,
+        "current_humidity": 91,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -858,9 +858,9 @@
       "lon": 75.7873,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 24.7,
-        "current_humidity": 94,
-        "current_precip": 0.0,
+        "current_temp": 24.0,
+        "current_humidity": 97,
+        "current_precip": 0.4,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -964,9 +964,9 @@
       "lon": 80.9462,
       "endemic_focus": "Dengue/JE",
       "climate": {
-        "current_temp": 26.7,
-        "current_humidity": 97,
-        "current_precip": 0.0,
+        "current_temp": 26.1,
+        "current_humidity": 98,
+        "current_precip": 0.1,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -1070,9 +1070,9 @@
       "lon": 85.1376,
       "endemic_focus": "Dengue/Kala-azar",
       "climate": {
-        "current_temp": 26.6,
+        "current_temp": 26.4,
         "current_humidity": 95,
-        "current_precip": 0.1,
+        "current_precip": 0.0,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -1176,9 +1176,9 @@
       "lon": 91.7362,
       "endemic_focus": "Malaria/JE",
       "climate": {
-        "current_temp": 25.7,
-        "current_humidity": 97,
-        "current_precip": 0.8,
+        "current_temp": 25.5,
+        "current_humidity": 98,
+        "current_precip": 0.4,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -1528,8 +1528,8 @@
       "lon": 106.8456,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 26.8,
-        "current_humidity": 76,
+        "current_temp": 26.2,
+        "current_humidity": 80,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -1634,9 +1634,9 @@
       "lon": 120.9842,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 28.0,
-        "current_humidity": 78,
-        "current_precip": 0.1,
+        "current_temp": 27.4,
+        "current_humidity": 83,
+        "current_precip": 0.2,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -1740,8 +1740,8 @@
       "lon": 90.4125,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 26.7,
-        "current_humidity": 92,
+        "current_temp": 26.4,
+        "current_humidity": 91,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -1846,9 +1846,9 @@
       "lon": 79.8612,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 24.6,
-        "current_humidity": 96,
-        "current_precip": 0.2,
+        "current_temp": 24.7,
+        "current_humidity": 95,
+        "current_precip": 0.5,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -1953,7 +1953,7 @@
       "endemic_focus": "Dengue",
       "climate": {
         "current_temp": 26.2,
-        "current_humidity": 86,
+        "current_humidity": 87,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2058,8 +2058,8 @@
       "lon": 103.8198,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 25.7,
-        "current_humidity": 92,
+        "current_temp": 25.6,
+        "current_humidity": 93,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2165,7 +2165,7 @@
       "endemic_focus": "Malaria/Dengue",
       "climate": {
         "current_temp": 26.2,
-        "current_humidity": 91,
+        "current_humidity": 92,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2270,8 +2270,8 @@
       "lon": 3.3792,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 25.8,
-        "current_humidity": 91,
+        "current_temp": 25.6,
+        "current_humidity": 93,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2376,7 +2376,7 @@
       "lon": 15.2663,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 23.6,
+        "current_temp": 23.1,
         "current_humidity": 79,
         "current_precip": 0.0,
         "time": [
@@ -2482,8 +2482,8 @@
       "lon": 36.8219,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 17.0,
-        "current_humidity": 67,
+        "current_temp": 15.6,
+        "current_humidity": 75,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2588,8 +2588,8 @@
       "lon": -0.187,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 24.4,
-        "current_humidity": 92,
+        "current_temp": 24.2,
+        "current_humidity": 93,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -2694,7 +2694,7 @@
       "lon": 32.5825,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 19.9,
+        "current_temp": 19.1,
         "current_humidity": 87,
         "current_precip": 0.0,
         "time": [
@@ -2800,8 +2800,8 @@
       "lon": 39.2083,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 23.3,
-        "current_humidity": 87,
+        "current_temp": 23.0,
+        "current_humidity": 88,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3152,8 +3152,8 @@
       "lon": 38.74,
       "endemic_focus": "Malaria",
       "climate": {
-        "current_temp": 12.2,
-        "current_humidity": 97,
+        "current_temp": 11.2,
+        "current_humidity": 96,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3258,8 +3258,8 @@
       "lon": -60.0217,
       "endemic_focus": "Dengue/Malaria",
       "climate": {
-        "current_temp": 35.0,
-        "current_humidity": 31,
+        "current_temp": 33.0,
+        "current_humidity": 41,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3364,9 +3364,9 @@
       "lon": -43.1729,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 19.5,
-        "current_humidity": 89,
-        "current_precip": 0.1,
+        "current_temp": 19.0,
+        "current_humidity": 93,
+        "current_precip": 0.2,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -3470,8 +3470,8 @@
       "lon": -79.8891,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 32.1,
-        "current_humidity": 49,
+        "current_temp": 28.8,
+        "current_humidity": 62,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3576,8 +3576,8 @@
       "lon": -66.1057,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 29.2,
-        "current_humidity": 80,
+        "current_temp": 28.9,
+        "current_humidity": 77,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3682,8 +3682,8 @@
       "lon": -87.1921,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 29.2,
-        "current_humidity": 46,
+        "current_temp": 27.6,
+        "current_humidity": 53,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3788,8 +3788,8 @@
       "lon": -75.4794,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 32.7,
-        "current_humidity": 63,
+        "current_temp": 29.9,
+        "current_humidity": 77,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -3894,8 +3894,8 @@
       "lon": -96.1342,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 29.5,
-        "current_humidity": 76,
+        "current_temp": 28.6,
+        "current_humidity": 79,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -4000,9 +4000,9 @@
       "lon": -79.5199,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 28.4,
-        "current_humidity": 80,
-        "current_precip": 0.1,
+        "current_temp": 27.3,
+        "current_humidity": 86,
+        "current_precip": 0.0,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -4106,9 +4106,9 @@
       "lon": -69.9312,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 28.4,
-        "current_humidity": 77,
-        "current_precip": 0.1,
+        "current_temp": 26.6,
+        "current_humidity": 88,
+        "current_precip": 0.0,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -4212,9 +4212,9 @@
       "lon": -82.3666,
       "endemic_focus": "Dengue",
       "climate": {
-        "current_temp": 32.8,
-        "current_humidity": 51,
-        "current_precip": 0.1,
+        "current_temp": 31.2,
+        "current_humidity": 60,
+        "current_precip": 0.0,
         "time": [
           "2026-08-10",
           "2026-08-11",
@@ -4318,7 +4318,7 @@
       "lon": -80.1918,
       "endemic_focus": "Low Baseline",
       "climate": {
-        "current_temp": 31.3,
+        "current_temp": 30.2,
         "current_humidity": 68,
         "current_precip": 0.0,
         "time": [
@@ -4359,7 +4359,7 @@
           29.3,
           29.1,
           28.5,
-          28.0,
+          28.1,
           28.2,
           27.2,
           30.2,
@@ -4424,8 +4424,8 @@
       "lon": 12.4964,
       "endemic_focus": "Low Baseline",
       "climate": {
-        "current_temp": 26.6,
-        "current_humidity": 70,
+        "current_temp": 25.6,
+        "current_humidity": 74,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -4466,11 +4466,11 @@
           28.3,
           27.9,
           28.5,
-          27.1,
-          28.3,
-          28.6,
-          30.0,
-          28.4,
+          27.5,
+          28.5,
+          29.3,
+          30.5,
+          29.0,
           26.8
         ],
         "humidity_mean": [
@@ -4490,10 +4490,10 @@
           61,
           58,
           74,
+          68,
           65,
           64,
-          68,
-          68,
+          69,
           57
         ],
         "precip_sum": [
@@ -4512,11 +4512,11 @@
           0.0,
           0.0,
           0.0,
-          4.9,
+          3.4,
           0.0,
           0.0,
           0.0,
-          0.3,
+          0.0,
           0.0
         ],
         "source": "Open-Meteo Real-Time"
@@ -4530,8 +4530,90 @@
       "lon": 139.6503,
       "endemic_focus": "Low Baseline",
       "climate": {
-        "current_temp": 23.8,
-        "current_humidity": 94,
+        "current_temp": -999.0,
+        "current_humidity": -999.0,
+        "current_precip": 0.0,
+        "time": [
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-22",
+          "2026-08-23",
+          "2026-08-24"
+        ],
+        "temp_mean": [
+          24.68,
+          24.1,
+          23.95,
+          24.49,
+          25.17,
+          24.15,
+          23.21,
+          24.48,
+          25.17,
+          25.74,
+          25.88,
+          25.39,
+          -999.0,
+          -999.0,
+          -999.0
+        ],
+        "humidity_mean": [
+          85.83,
+          78.48,
+          85.68,
+          91.4,
+          90.31,
+          89.96,
+          91.45,
+          85.73,
+          81.7,
+          79.69,
+          82.23,
+          88.18,
+          -999.0,
+          -999.0,
+          -999.0
+        ],
+        "precip_sum": [
+          3.44,
+          24.3,
+          15.24,
+          16.42,
+          21.2,
+          23.16,
+          6.26,
+          1.03,
+          0.92,
+          0.45,
+          6.01,
+          18.56,
+          -999.0,
+          -999.0,
+          -999.0
+        ],
+        "source": "NASA POWER Fallback"
+      }
+    },
+    {
+      "id": "SYD",
+      "name": "Sydney",
+      "country": "Australia",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "endemic_focus": "Low Baseline",
+      "climate": {
+        "current_temp": 18.5,
+        "current_humidity": 65,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -4557,157 +4639,75 @@
           "2026-08-30"
         ],
         "temp_mean": [
-          25.2,
-          23.8,
-          24.4,
-          24.5,
-          25.7,
-          25.1,
-          23.8,
-          25.8,
-          26.4,
-          26.9,
-          26.9,
-          26.3,
-          26.4,
-          26.3,
-          27.3,
-          29.1,
-          29.1,
-          27.9,
-          26.3,
-          26.3,
-          27.7
+          13.3,
+          13.8,
+          13.7,
+          13.2,
+          13.4,
+          13.6,
+          13.9,
+          12.7,
+          13.7,
+          14.2,
+          16.5,
+          15.2,
+          14.4,
+          15.2,
+          17.2,
+          16.3,
+          15.5,
+          12.6,
+          13.5,
+          12.6,
+          13.8
         ],
         "humidity_mean": [
-          74,
+          67,
+          62,
+          61,
+          64,
+          73,
           80,
-          91,
-          92,
-          87,
           79,
-          89,
+          86,
           80,
-          81,
+          82,
+          72,
+          78,
+          72,
           78,
           80,
+          88,
+          75,
           85,
-          86,
-          85,
-          81,
-          76,
-          78,
-          84,
-          86,
+          82,
           82,
           82
         ],
         "precip_sum": [
+          1.3,
           0.0,
-          35.8,
-          15.7,
-          27.9,
-          3.7,
-          0.1,
-          0.6,
-          0.0,
-          0.0,
-          0.0,
-          0.1,
-          10.0,
-          0.6,
-          0.0,
-          0.0,
+          0.4,
           0.0,
           0.2,
-          5.58,
-          5.8,
-          7.4,
-          0.1
+          3.8,
+          4.4,
+          2.6,
+          0.3,
+          0.5,
+          1.3,
+          1.9,
+          0.3,
+          0.4,
+          0.0,
+          9.6,
+          1.8,
+          0.1,
+          0.0,
+          0.3,
+          0.0
         ],
         "source": "Open-Meteo Real-Time"
-      }
-    },
-    {
-      "id": "SYD",
-      "name": "Sydney",
-      "country": "Australia",
-      "lat": -33.8688,
-      "lon": 151.2093,
-      "endemic_focus": "Low Baseline",
-      "climate": {
-        "current_temp": -999.0,
-        "current_humidity": -999.0,
-        "current_precip": 0.0,
-        "time": [
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-15",
-          "2026-08-16",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-22",
-          "2026-08-23",
-          "2026-08-24"
-        ],
-        "temp_mean": [
-          14.3,
-          15.42,
-          14.61,
-          14.98,
-          14.7,
-          15.26,
-          15.23,
-          15.29,
-          16.0,
-          16.26,
-          16.96,
-          18.04,
-          -999.0,
-          -999.0,
-          -999.0
-        ],
-        "humidity_mean": [
-          69.12,
-          61.77,
-          62.29,
-          61.25,
-          65.38,
-          73.79,
-          73.72,
-          74.36,
-          72.42,
-          77.12,
-          73.13,
-          66.73,
-          -999.0,
-          -999.0,
-          -999.0
-        ],
-        "precip_sum": [
-          2.01,
-          0.0,
-          0.03,
-          0.0,
-          0.0,
-          1.28,
-          1.22,
-          2.4,
-          1.13,
-          0.08,
-          0.01,
-          0.2,
-          -999.0,
-          -999.0,
-          -999.0
-        ],
-        "source": "NASA POWER Fallback"
       }
     },
     {
@@ -4718,8 +4718,8 @@
       "lon": 31.2357,
       "endemic_focus": "Low Baseline",
       "climate": {
-        "current_temp": 27.7,
-        "current_humidity": 66,
+        "current_temp": 26.4,
+        "current_humidity": 75,
         "current_precip": 0.0,
         "time": [
           "2026-08-10",
@@ -4760,11 +4760,11 @@
           28.5,
           29.1,
           29.9,
-          30.5,
-          31.0,
+          30.6,
+          31.2,
           30.8,
-          31.0,
-          30.7,
+          30.8,
+          30.6,
           30.0
         ],
         "humidity_mean": [
@@ -4783,10 +4783,10 @@
           59,
           59,
           55,
-          58,
-          59,
-          58,
           57,
+          60,
+          58,
+          58,
           59,
           52
         ],
