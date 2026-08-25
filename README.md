@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-25 03:24:13 UTC`  
+**Last Updated:** `2026-08-25 05:57:06 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -36,7 +36,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Lucknow** | India | Dengue/JE | 28.65°C | 88.05% | `0.86` |
 | **Kolkata** | India | Dengue/Malaria | 28.52°C | 87.0% | `0.85` |
 | **Lagos** | Nigeria | Malaria | 26.02°C | 86.14% | `0.84` |
-| **Tokyo** | Japan | Low Baseline | 26.23°C | 83.62% | `0.83` |
+| **Tokyo** | Japan | Low Baseline | 26.17°C | 83.71% | `0.83` |
 | **Manila** | Philippines | Dengue | 27.32°C | 83.43% | `0.83` |
 | **Mumbai** | India | Dengue/Malaria | 27.22°C | 82.71% | `0.83` |
 | **Abidjan** | Cote d'Ivoire | Malaria | 25.22°C | 84.76% | `0.83` |
@@ -50,7 +50,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Singapore** | Singapore | Dengue | 28.14°C | 77.38% | `0.79` |
 | **Dakar** | Senegal | Malaria | 28.64°C | 77.57% | `0.78` |
 | **New Delhi** | India | Dengue/Chikungunya | 29.72°C | 79.29% | `0.78` |
-| **Miami** | United States | Low Baseline | 29.15°C | 76.81% | `0.76` |
+| **Miami** | United States | Low Baseline | 29.21°C | 76.33% | `0.76` |
 | **Dar es Salaam** | Tanzania | Malaria | 24.86°C | 76.43% | `0.76` |
 | **Jaipur** | India | Dengue/Malaria | 28.49°C | 74.57% | `0.75` |
 | **Havana** | Cuba | Dengue | 28.64°C | 74.57% | `0.75` |
