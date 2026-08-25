@@ -1,48 +1,48 @@
 region_id,name,country,lat,lon,endemic_focus,mean_temp_14d,min_temp_14d,max_temp_14d,mean_humidity_14d,total_precip_14d,vectorial_capacity_proxy,breeding_site_index
-DEL,New Delhi,India,28.6139,77.209,Dengue/Chikungunya,29.47,27.9,31.2,81.43,96.6,0.794,0.666
-BOM,Mumbai,India,19.076,72.8777,Dengue/Malaria,27.22,26.0,27.7,82.9,196.7,0.8286,1.667
-CCU,Kolkata,India,22.5726,88.3639,Dengue/Malaria,28.56,26.7,29.8,86.81,281.0,0.8618,2.51
-MAA,Chennai,India,13.0827,80.2707,Dengue/Chikungunya,30.2,28.1,31.4,69.57,63.0,0.6633,0.33
-BLR,Bengaluru,India,12.9716,77.5946,Dengue,23.5,22.1,24.7,77.38,83.4,0.6944,0.534
-HYD,Hyderabad,India,17.385,78.4867,Dengue/Malaria,26.36,25.0,27.5,72.52,45.8,0.7192,0.158
-AMD,Ahmedabad,India,23.0225,72.5714,Dengue/Malaria,28.75,26.9,30.2,74.81,60.2,0.7406,0.302
-PNQ,Pune,India,18.5204,73.8567,Dengue/Zika,24.2,23.7,24.8,83.76,65.6,0.7794,0.356
-JAI,Jaipur,India,26.9124,75.7873,Dengue/Malaria,28.5,27.2,29.8,75.86,59.9,0.7538,0.299
-LKO,Lucknow,India,26.8467,80.9462,Dengue/JE,28.79,27.1,31.5,87.43,245.3,0.865,2.153
-PAT,Patna,India,25.5941,85.1376,Dengue/Kala-azar,29.66,28.0,31.6,82.14,166.2,0.797,1.362
-GAU,Guwahati,India,26.1445,91.7362,Malaria/JE,-177.37,-999.0,28.84,-134.54,-2889.23,0.0,0.0
-TRV,Thiruvananthapuram,India,8.5241,76.9366,Dengue/Chikungunya,-179.28,-999.0,26.05,-128.81,-2902.07,0.0,0.0
-BBI,Bhubaneswar,India,20.2961,85.8245,Malaria/Dengue,-177.84,-999.0,28.7,-127.62,-2862.06,0.0,0.0
-BKK,Bangkok,Thailand,13.7563,100.5018,Dengue,28.09,26.8,29.3,79.76,160.3,0.7959,1.303
-JKT,Jakarta,Indonesia,-6.2088,106.8456,Dengue,29.08,28.2,30.0,65.86,28.2,0.648,0.0
-MNL,Manila,Philippines,14.5995,120.9842,Dengue,27.37,26.0,28.8,83.43,416.4,0.8342,3.864
-DAC,Dhaka,Bangladesh,23.8103,90.4125,Dengue,28.96,27.3,30.3,83.0,179.6,0.8187,1.496
-CMB,Colombo,Sri Lanka,6.9271,79.8612,Dengue,27.26,25.9,28.0,81.19,161.5,0.8116,1.315
-SGN,Ho Chi Minh City,Vietnam,10.8231,106.6297,Dengue,27.78,26.0,29.5,81.33,147.8,0.8129,1.178
-SIN,Singapore,Singapore,1.3521,103.8198,Dengue,28.16,26.6,28.9,76.95,73.4,0.7674,0.434
-RGN,Yangon,Myanmar,16.8661,96.1951,Malaria/Dengue,26.33,25.4,27.9,91.71,488.4,0.9091,4.584
-LOS,Lagos,Nigeria,6.5244,3.3792,Malaria,26.03,25.6,26.5,85.67,94.4,0.8448,0.644
-FIH,Kinshasa,DR Congo,-4.4419,15.2663,Malaria,25.52,24.0,27.6,67.05,9.0,0.6536,0.0
-NBO,Nairobi,Kenya,-1.2921,36.8219,Malaria,19.23,17.8,20.7,58.52,15.4,0.329,0.0
-ACC,Accra,Ghana,5.6037,-0.187,Malaria,25.75,24.6,26.7,81.62,71.0,0.8001,0.41
-EBB,Kampala,Uganda,0.3476,32.5825,Malaria,-181.32,-999.0,23.72,-145.52,-2968.56,0.0,0.0
-DAR,Dar es Salaam,Tanzania,-6.7924,39.2083,Malaria,-179.55,-999.0,25.6,-141.39,-2987.93,0.0,0.0
-MPM,Maputo,Mozambique,-25.9692,32.5732,Malaria,-184.24,-999.0,22.3,-142.97,-2983.29,0.0,0.0
-ABJ,Abidjan,Cote d'Ivoire,5.36,-4.0083,Malaria,25.23,24.5,25.6,84.38,65.2,0.8159,0.352
-DKR,Dakar,Senegal,14.7167,-17.4677,Malaria,28.55,27.1,29.8,78.05,103.7,0.775,0.737
-ADD,Addis Ababa,Ethiopia,9.03,38.74,Malaria,14.44,13.8,15.4,85.38,193.1,0.0,1.631
-MAO,Manaus,Brazil,-3.119,-60.0217,Dengue/Malaria,30.7,27.4,32.3,60.76,27.0,0.5679,0.0
-GIG,Rio de Janeiro,Brazil,-22.9068,-43.1729,Dengue,22.12,19.6,27.6,82.14,69.5,0.6695,0.395
-GYE,Guayaquil,Ecuador,-2.1894,-79.8891,Dengue,27.54,27.1,28.3,69.81,7.5,0.6981,0.0
-SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,28.5,27.5,29.2,78.19,49.9,0.7769,0.199
-TGU,Tegucigalpa,Honduras,14.0723,-87.1921,Dengue,23.53,22.5,24.6,78.05,77.1,0.7017,0.471
-CTG,Cartagena,Colombia,10.391,-75.4794,Dengue,29.33,27.5,30.5,78.05,66.0,0.7638,0.36
-VER,Veracruz,Mexico,19.1738,-96.1342,Dengue,27.62,26.4,28.7,81.38,119.8,0.8137,0.898
-PTY,Panama City,Panama,8.9824,-79.5199,Dengue,27.29,25.7,28.8,88.05,226.9,0.8802,1.969
-SDQ,Santo Domingo,Dominican Republic,18.4861,-69.9312,Dengue,-177.07,-999.0,28.89,-141.54,-2963.16,0.0,0.0
-HAV,Havana,Cuba,23.1136,-82.3666,Dengue,-175.84,-999.0,30.32,-142.19,-2977.02,0.0,0.0
-MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.17,27.3,30.4,77.05,30.17,0.7568,0.0017
-ROM,Rome,Italy,41.9028,12.4964,Low Baseline,28.9,26.8,31.5,62.71,9.5,0.6193,0.0
-TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,26.24,23.8,29.1,82.81,113.58,0.8197,0.8358
-SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,14.2,12.6,17.2,76.57,29.2,0.0,0.0
-CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,30.14,27.7,33.2,56.29,0.2,0.5378,0.0
+DEL,New Delhi,India,28.6139,77.209,Dengue/Chikungunya,29.72,28.4,31.3,79.29,87.2,0.7678,0.572
+BOM,Mumbai,India,19.076,72.8777,Dengue/Malaria,27.22,26.0,27.7,82.71,200.3,0.8267,1.703
+CCU,Kolkata,India,22.5726,88.3639,Dengue/Malaria,28.52,26.7,29.8,87.0,261.3,0.8642,2.313
+MAA,Chennai,India,13.0827,80.2707,Dengue/Chikungunya,30.34,28.2,31.4,69.0,47.0,0.6543,0.17
+BLR,Bengaluru,India,12.9716,77.5946,Dengue,23.56,22.3,24.7,76.62,74.1,0.6901,0.441
+HYD,Hyderabad,India,17.385,78.4867,Dengue/Malaria,26.37,24.9,27.5,71.95,41.8,0.7137,0.118
+AMD,Ahmedabad,India,23.0225,72.5714,Dengue/Malaria,28.86,26.9,30.2,73.62,52.2,0.7275,0.222
+PNQ,Pune,India,18.5204,73.8567,Dengue/Zika,24.25,23.7,24.7,83.38,60.2,0.7774,0.302
+JAI,Jaipur,India,26.9124,75.7873,Dengue/Malaria,28.49,27.1,29.8,74.57,49.6,0.7411,0.196
+LKO,Lucknow,India,26.8467,80.9462,Dengue/JE,28.65,27.0,31.5,88.05,273.9,0.8731,2.439
+PAT,Patna,India,25.5941,85.1376,Dengue/Kala-azar,-244.35,-999.0,31.65,-206.26,-3919.68,0.0,0.0
+GAU,Guwahati,India,26.1445,91.7362,Malaria/JE,-245.8,-999.0,28.84,-206.52,-3894.99,0.0,0.0
+TRV,Thiruvananthapuram,India,8.5241,76.9366,Dengue/Chikungunya,-247.56,-999.0,26.05,-201.47,-3904.02,0.0,0.0
+BBI,Bhubaneswar,India,20.2961,85.8245,Malaria/Dengue,27.88,26.8,29.6,88.76,427.4,0.8868,3.974
+BKK,Bangkok,Thailand,13.7563,100.5018,Dengue,28.11,26.8,29.3,79.52,136.0,0.7933,1.06
+JKT,Jakarta,Indonesia,-6.2088,106.8456,Dengue,29.15,28.4,30.0,65.67,27.4,0.6453,0.0
+MNL,Manila,Philippines,14.5995,120.9842,Dengue,27.32,26.0,28.9,83.43,379.9,0.8341,3.499
+DAC,Dhaka,Bangladesh,23.8103,90.4125,Dengue,28.95,27.3,30.3,83.19,161.5,0.8207,1.315
+CMB,Colombo,Sri Lanka,6.9271,79.8612,Dengue,27.17,25.7,28.0,81.76,180.4,0.817,1.504
+SGN,Ho Chi Minh City,Vietnam,10.8231,106.6297,Dengue,27.75,26.4,29.5,81.52,192.0,0.8149,1.62
+SIN,Singapore,Singapore,1.3521,103.8198,Dengue,28.14,26.8,28.9,77.38,71.9,0.7718,0.419
+RGN,Yangon,Myanmar,16.8661,96.1951,Malaria/Dengue,26.25,25.4,27.9,91.76,482.4,0.9084,4.524
+LOS,Lagos,Nigeria,6.5244,3.3792,Malaria,26.02,25.5,26.5,86.14,100.8,0.8493,0.708
+FIH,Kinshasa,DR Congo,-4.4419,15.2663,Malaria,-248.18,-999.0,25.63,-210.31,-3989.29,0.0,0.0
+NBO,Nairobi,Kenya,-1.2921,36.8219,Malaria,-252.27,-999.0,20.08,-221.45,-3986.42,0.0,0.0
+ACC,Accra,Ghana,5.6037,-0.187,Malaria,-248.45,-999.0,24.75,-199.28,-3982.8,0.0,0.0
+EBB,Kampala,Uganda,0.3476,32.5825,Malaria,22.5,21.3,24.1,73.86,34.6,0.6202,0.046
+DAR,Dar es Salaam,Tanzania,-6.7924,39.2083,Malaria,24.86,24.0,25.5,76.43,49.6,0.7301,0.196
+MPM,Maputo,Mozambique,-25.9692,32.5732,Malaria,19.66,15.6,25.3,75.76,25.2,0.4597,0.0
+ABJ,Abidjan,Cote d'Ivoire,5.36,-4.0083,Malaria,25.22,24.4,25.6,84.76,61.7,0.8195,0.317
+DKR,Dakar,Senegal,14.7167,-17.4677,Malaria,28.64,27.2,29.6,77.57,96.5,0.7692,0.665
+ADD,Addis Ababa,Ethiopia,9.03,38.74,Malaria,14.49,13.8,15.5,85.38,201.8,0.0,1.718
+MAO,Manaus,Brazil,-3.119,-60.0217,Dengue/Malaria,30.68,27.4,32.3,61.38,29.4,0.5741,0.0
+GIG,Rio de Janeiro,Brazil,-22.9068,-43.1729,Dengue,22.42,19.6,28.3,81.19,48.5,0.678,0.185
+GYE,Guayaquil,Ecuador,-2.1894,-79.8891,Dengue,27.53,27.1,28.3,69.71,7.1,0.6971,0.0
+SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,28.54,27.5,29.2,78.1,50.1,0.7755,0.201
+TGU,Tegucigalpa,Honduras,14.0723,-87.1921,Dengue,-247.86,-999.0,26.09,-216.49,-3960.06,0.0,0.0
+CTG,Cartagena,Colombia,10.391,-75.4794,Dengue,-244.69,-999.0,30.17,-207.02,-3962.36,0.0,0.0
+VER,Veracruz,Mexico,19.1738,-96.1342,Dengue,-246.04,-999.0,28.45,-208.4,-3939.23,0.0,0.0
+PTY,Panama City,Panama,8.9824,-79.5199,Dengue,27.2,25.7,28.8,88.43,240.8,0.8838,2.108
+SDQ,Santo Domingo,Dominican Republic,18.4861,-69.9312,Dengue,27.62,26.8,28.9,79.86,49.4,0.7985,0.194
+HAV,Havana,Cuba,23.1136,-82.3666,Dengue,28.64,26.7,29.7,74.57,42.7,0.7395,0.127
+MIA,Miami,United States,25.7617,-80.1918,Low Baseline,29.15,25.9,30.4,76.81,54.5,0.7547,0.245
+ROM,Rome,Italy,41.9028,12.4964,Low Baseline,28.74,26.6,31.5,62.52,8.7,0.6191,0.0
+TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,26.23,23.8,29.1,83.62,127.98,0.8276,0.9798
+SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,14.35,12.5,17.3,77.33,28.1,0.0,0.0
+CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,30.07,27.7,33.2,56.14,0.2,0.5377,0.0
