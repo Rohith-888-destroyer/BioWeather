@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-26 03:42:28 UTC`  
+**Last Updated:** `2026-08-26 05:28:40 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `32` | `68.1%` |
-| 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `10` | `21.3%` |
+| 🔴 **High Risk** | `31` | `66.0%` |
+| 🟠 **Medium Risk** | `4` | `8.5%` |
+| 🟢 **Low Risk** | `12` | `25.5%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -52,7 +52,6 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Singapore** | Singapore | Dengue | 28.23°C | 77.14% | `0.78` |
 | **Dakar** | Senegal | Malaria | 28.82°C | 77.43% | `0.78` |
 | **New Delhi** | India | Dengue/Chikungunya | 29.77°C | 78.71% | `0.77` |
-| **Miami** | United States | Low Baseline | 29.16°C | 76.57% | `0.76` |
 | **Havana** | Cuba | Dengue | 28.66°C | 74.76% | `0.75` |
 | **Jaipur** | India | Dengue/Malaria | 28.62°C | 72.62% | `0.73` |
 | **Hyderabad** | India | Dengue/Malaria | 26.37°C | 71.81% | `0.73` |
