@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-28 22:01:16 UTC`  
+**Last Updated:** `2026-08-28 22:09:55 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `35` | `74.5%` |
-| 🟠 **Medium Risk** | `3` | `6.4%` |
-| 🟢 **Low Risk** | `9` | `19.1%` |
+| 🔴 **High Risk** | `32` | `68.1%` |
+| 🟠 **Medium Risk** | `5` | `10.6%` |
+| 🟢 **Low Risk** | `10` | `21.3%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -35,13 +35,10 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Lucknow** | India | Dengue/JE | 28.25°C | 89.29% | `0.87` |
 | **Guwahati** | India | Malaria/JE | 28.32°C | 88.24% | `0.86` |
 | **Kolkata** | India | Dengue/Malaria | 28.58°C | 86.76% | `0.85` |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.03°C | 87.29% | `0.85` |
 | **Lagos** | Nigeria | Malaria | 26.17°C | 85.81% | `0.84` |
 | **Patna** | India | Dengue/Kala-azar | 29.2°C | 83.95% | `0.83` |
 | **Manila** | Philippines | Dengue | 27.53°C | 82.24% | `0.83` |
-| **Tokyo** | Japan | Low Baseline | 26.07°C | 83.1% | `0.83` |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.7°C | 81.76% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 25.3°C | 84.24% | `0.82` |
 | **Dhaka** | Bangladesh | Dengue | 28.9°C | 82.86% | `0.82` |
 | **Mumbai** | India | Dengue/Malaria | 27.39°C | 81.81% | `0.82` |
 | **Accra** | Ghana | Malaria | 25.81°C | 82.33% | `0.82` |
