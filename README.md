@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-29 15:10:21 UTC`  
+**Last Updated:** `2026-08-29 16:10:39 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `33` | `70.2%` |
+| 🔴 **High Risk** | `32` | `68.1%` |
 | 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `9` | `19.1%` |
+| 🟢 **Low Risk** | `10` | `21.3%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -46,13 +46,12 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Veracruz** | Mexico | Dengue | 27.88°C | 80.86% | `0.82` |
 | **Colombo** | Sri Lanka | Dengue | 27.45°C | 80.62% | `0.81` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.43°C | 80.38% | `0.81` |
-| **Tokyo** | Japan | Low Baseline | 26.01°C | 81.29% | `0.81` |
 | **Singapore** | Singapore | Dengue | 27.83°C | 79.05% | `0.80` |
 | **Cartagena** | Colombia | Dengue | 29.01°C | 79.67% | `0.80` |
 | **Pune** | India | Dengue/Zika | 24.26°C | 82.76% | `0.80` |
 | **San Juan** | Puerto Rico | Dengue | 28.4°C | 78.24% | `0.79` |
 | **New Delhi** | India | Dengue/Chikungunya | 29.48°C | 79.29% | `0.78` |
-| **Miami** | United States | Low Baseline | 28.97°C | 77.0% | `0.77` |
+| **Miami** | United States | Low Baseline | 29.02°C | 76.71% | `0.77` |
 | **Dar es Salaam** | Tanzania | Malaria | 24.85°C | 76.52% | `0.76` |
 | **Havana** | Cuba | Dengue | 28.63°C | 75.14% | `0.76` |
 | **Jaipur** | India | Dengue/Malaria | 28.5°C | 72.1% | `0.73` |
