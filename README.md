@@ -16,22 +16,22 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-08-30 07:11:04 UTC`  
+**Last Updated:** `2026-08-30 08:11:51 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `30` | `63.8%` |
+| 🔴 **High Risk** | `29` | `61.7%` |
 | 🟠 **Medium Risk** | `7` | `14.9%` |
-| 🟢 **Low Risk** | `10` | `21.3%` |
+| 🟢 **Low Risk** | `11` | `23.4%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
+| **Yangon** | Myanmar | Malaria/Dengue | 26.35°C | 91.29% | `0.87` |
 | **Panama City** | Panama | Dengue | 26.91°C | 89.71% | `0.87` |
-| **Guwahati** | India | Malaria/JE | 28.15°C | 88.62% | `0.86` |
 | **Bhubaneswar** | India | Malaria/Dengue | 27.99°C | 86.43% | `0.85` |
 | **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.16°C | 86.76% | `0.85` |
 | **Kolkata** | India | Dengue/Malaria | 28.78°C | 85.86% | `0.84` |
@@ -47,13 +47,12 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Accra** | Ghana | Malaria | 25.93°C | 81.67% | `0.81` |
 | **Bangkok** | Thailand | Dengue | 28.03°C | 80.38% | `0.81` |
 | **Cartagena** | Colombia | Dengue | 28.88°C | 80.9% | `0.81` |
-| **San Juan** | Puerto Rico | Dengue | 28.23°C | 79.38% | `0.80` |
 | **Pune** | India | Dengue/Zika | 24.28°C | 82.57% | `0.79` |
 | **Dakar** | Senegal | Malaria | 28.81°C | 78.19% | `0.79` |
 | **New Delhi** | India | Dengue/Chikungunya | 29.42°C | 78.71% | `0.78` |
 | **Singapore** | Singapore | Dengue | 28.08°C | 76.67% | `0.78` |
+| **Miami** | United States | Low Baseline | 28.84°C | 77.0% | `0.77` |
 | **Havana** | Cuba | Dengue | 28.43°C | 75.95% | `0.77` |
-| **Miami** | United States | Low Baseline | 28.94°C | 76.62% | `0.77` |
 | **Dar es Salaam** | Tanzania | Malaria | 24.94°C | 76.24% | `0.76` |
 | **Jaipur** | India | Dengue/Malaria | 28.37°C | 72.57% | `0.73` |
 | **Hyderabad** | India | Dengue/Malaria | 26.4°C | 70.81% | `0.72` |
