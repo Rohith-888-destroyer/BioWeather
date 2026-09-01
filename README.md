@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-09-01 02:11:54 UTC`  
+**Last Updated:** `2026-09-01 03:12:52 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -34,11 +34,11 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Guwahati** | India | Malaria/JE | 28.06°C | 89.05% | `0.87` |
 | **Panama City** | Panama | Dengue | 27.04°C | 88.95% | `0.86` |
 | **Lucknow** | India | Dengue/JE | 28.1°C | 88.71% | `0.86` |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.27°C | 86.1% | `0.84` |
 | **Kolkata** | India | Dengue/Malaria | 28.88°C | 86.19% | `0.84` |
 | **Lagos** | Nigeria | Malaria | 26.3°C | 85.95% | `0.84` |
 | **Patna** | India | Dengue/Kala-azar | 29.1°C | 85.29% | `0.84` |
 | **Dhaka** | Bangladesh | Dengue | 28.89°C | 83.33% | `0.83` |
+| **Tokyo** | Japan | Low Baseline | 25.47°C | 83.86% | `0.83` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.22°C | 82.24% | `0.82` |
 | **Manila** | Philippines | Dengue | 27.56°C | 81.76% | `0.82` |
 | **Accra** | Ghana | Malaria | 25.87°C | 82.95% | `0.82` |
@@ -51,7 +51,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **San Juan** | Puerto Rico | Dengue | 28.33°C | 79.1% | `0.80` |
 | **Pune** | India | Dengue/Zika | 24.43°C | 81.67% | `0.79` |
 | **Singapore** | Singapore | Dengue | 27.98°C | 76.24% | `0.78` |
-| **Miami** | United States | Low Baseline | 28.76°C | 77.0% | `0.77` |
+| **Miami** | United States | Low Baseline | 28.8°C | 76.9% | `0.77` |
 | **Havana** | Cuba | Dengue | 28.4°C | 76.1% | `0.77` |
 | **Dar es Salaam** | Tanzania | Malaria | 25.0°C | 76.0% | `0.76` |
 | **Jaipur** | India | Dengue/Malaria | 28.3°C | 72.76% | `0.74` |
