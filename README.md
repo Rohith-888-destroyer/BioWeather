@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-09-04 16:14:32 UTC`  
+**Last Updated:** `2026-09-04 17:14:10 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -34,19 +34,19 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Panama City** | Panama | Dengue | 27.09°C | 88.52% | `0.86` |
 | **Bhubaneswar** | India | Malaria/Dengue | 28.06°C | 87.14% | `0.85` |
 | **Kolkata** | India | Dengue/Malaria | 28.58°C | 87.48% | `0.85` |
-| **Lagos** | Nigeria | Malaria | 26.32°C | 85.9% | `0.84` |
 | **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.48°C | 85.48% | `0.84` |
 | **Dhaka** | Bangladesh | Dengue | 28.64°C | 84.19% | `0.84` |
 | **Abidjan** | Cote d'Ivoire | Malaria | 25.25°C | 85.19% | `0.83` |
+| **Tokyo** | Japan | Low Baseline | 25.08°C | 84.57% | `0.83` |
 | **Mumbai** | India | Dengue/Malaria | 27.18°C | 82.38% | `0.83` |
-| **Tokyo** | Japan | Low Baseline | 25.08°C | 84.29% | `0.82` |
 | **Manila** | Philippines | Dengue | 27.47°C | 81.76% | `0.82` |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.8°C | 81.71% | `0.82` |
+| **Accra** | Ghana | Malaria | 25.92°C | 82.67% | `0.82` |
 | **Santo Domingo** | Dominican Republic | Dengue | 27.42°C | 81.71% | `0.82` |
 | **Bangkok** | Thailand | Dengue | 28.0°C | 80.62% | `0.81` |
+| **Veracruz** | Mexico | Dengue | 28.19°C | 80.57% | `0.81` |
 | **Colombo** | Sri Lanka | Dengue | 27.7°C | 79.57% | `0.81` |
-| **San Juan** | Puerto Rico | Dengue | 28.31°C | 79.24% | `0.80` |
-| **Miami** | United States | Low Baseline | 28.6°C | 78.14% | `0.79` |
+| **Miami** | United States | Low Baseline | 28.59°C | 78.14% | `0.79` |
 | **Dakar** | Senegal | Malaria | 28.78°C | 78.29% | `0.79` |
 | **New Delhi** | India | Dengue/Chikungunya | 29.01°C | 78.76% | `0.79` |
 | **Pune** | India | Dengue/Zika | 24.5°C | 80.67% | `0.79` |
