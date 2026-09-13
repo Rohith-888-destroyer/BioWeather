@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-09-13 13:08:29 UTC`  
+**Last Updated:** `2026-09-13 17:02:26 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `32` | `68.1%` |
+| 🔴 **High Risk** | `31` | `66.0%` |
 | 🟠 **Medium Risk** | `5` | `10.6%` |
-| 🟢 **Low Risk** | `10` | `21.3%` |
+| 🟢 **Low Risk** | `11` | `23.4%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -33,7 +33,6 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Panama City** | Panama | Dengue | 26.89°C | 88.95% | `0.86` |
 | **Kolkata** | India | Dengue/Malaria | 28.2°C | 86.67% | `0.85` |
 | **Bhubaneswar** | India | Malaria/Dengue | 27.86°C | 85.81% | `0.85` |
-| **Lucknow** | India | Dengue/JE | 27.95°C | 85.95% | `0.85` |
 | **Manila** | Philippines | Dengue | 26.95°C | 85.1% | `0.84` |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.32°C | 85.1% | `0.84` |
 | **Dhaka** | Bangladesh | Dengue | 28.37°C | 84.9% | `0.84` |
@@ -45,9 +44,9 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Colombo** | Sri Lanka | Dengue | 27.54°C | 80.9% | `0.82` |
 | **San Juan** | Puerto Rico | Dengue | 27.93°C | 81.14% | `0.82` |
 | **Veracruz** | Mexico | Dengue | 28.08°C | 80.71% | `0.81` |
+| **Miami** | United States | Low Baseline | 27.85°C | 80.43% | `0.81` |
 | **Accra** | Ghana | Malaria | 26.21°C | 81.05% | `0.81` |
 | **Cartagena** | Colombia | Dengue | 29.13°C | 81.29% | `0.81` |
-| **Miami** | United States | Low Baseline | 27.98°C | 79.71% | `0.81` |
 | **Singapore** | Singapore | Dengue | 27.8°C | 79.29% | `0.80` |
 | **New Delhi** | India | Dengue/Chikungunya | 28.43°C | 78.76% | `0.80` |
 | **Havana** | Cuba | Dengue | 28.16°C | 77.86% | `0.79` |
