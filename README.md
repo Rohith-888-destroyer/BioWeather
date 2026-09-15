@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-09-15 21:57:29 UTC`  
+**Last Updated:** `2026-09-15 23:59:47 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -42,20 +42,20 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Lucknow** | India | Dengue/JE | 28.2°C | 84.52% | `0.84` |
 | **Santo Domingo** | Dominican Republic | Dengue | 26.93°C | 84.24% | `0.84` |
 | **Dhaka** | Bangladesh | Dengue | 28.66°C | 83.71% | `0.83` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 25.44°C | 84.67% | `0.83` |
 | **Colombo** | Sri Lanka | Dengue | 27.48°C | 81.19% | `0.82` |
 | **Accra** | Ghana | Malaria | 26.17°C | 81.76% | `0.82` |
 | **San Juan** | Puerto Rico | Dengue | 28.01°C | 80.9% | `0.82` |
-| **Miami** | United States | Low Baseline | 27.81°C | 80.52% | `0.81` |
 | **Veracruz** | Mexico | Dengue | 27.96°C | 80.52% | `0.81` |
 | **Singapore** | Singapore | Dengue | 27.82°C | 79.67% | `0.81` |
 | **Cartagena** | Colombia | Dengue | 29.11°C | 80.76% | `0.80` |
 | **Havana** | Cuba | Dengue | 27.87°C | 78.62% | `0.80` |
-| **Tokyo** | Japan | Low Baseline | 22.97°C | 87.81% | `0.79` |
+| **Tokyo** | Japan | Low Baseline | 22.95°C | 87.86% | `0.79` |
 | **Pune** | India | Dengue/Zika | 24.59°C | 79.86% | `0.78` |
 | **Chennai** | India | Dengue/Chikungunya | 29.47°C | 77.29% | `0.76` |
 | **Guayaquil** | Ecuador | Dengue | 27.43°C | 74.62% | `0.76` |
+| **Dakar** | Senegal | Malaria | 28.89°C | 75.71% | `0.76` |
 | **New Delhi** | India | Dengue/Chikungunya | 28.88°C | 75.52% | `0.76` |
-| **Dar es Salaam** | Tanzania | Malaria | 25.15°C | 75.62% | `0.75` |
 | **Tegucigalpa** | Honduras | Dengue | 23.7°C | 77.67% | `0.73` |
 | **Jaipur** | India | Dengue/Malaria | 28.03°C | 72.05% | `0.73` |
 | **Ahmedabad** | India | Dengue/Malaria | 28.96°C | 72.76% | `0.72` |
