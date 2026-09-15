@@ -30,19 +30,19 @@ DAR,Dar es Salaam,Tanzania,-6.7924,39.2083,Malaria,25.17,23.9,25.7,75.43,73.9,0.
 MPM,Maputo,Mozambique,-25.9692,32.5732,Malaria,22.34,18.6,26.8,73.0,44.0,0.6057,0.14
 ABJ,Abidjan,Cote d'Ivoire,5.36,-4.0083,Malaria,25.45,24.1,26.1,84.48,59.7,0.8221,0.297
 DKR,Dakar,Senegal,14.7167,-17.4677,Malaria,29.01,27.5,30.5,75.19,45.1,0.7409,0.151
-ADD,Addis Ababa,Ethiopia,9.03,38.74,Malaria,-186.16,-999.0,18.07,-138.82,-2939.98,0.0,0.0
-MAO,Manaus,Brazil,-3.119,-60.0217,Dengue/Malaria,-177.16,-999.0,28.84,-140.62,-2954.64,0.0,0.0
+ADD,Addis Ababa,Ethiopia,9.03,38.74,Malaria,14.42,13.5,15.0,84.38,137.8,0.0,1.078
+MAO,Manaus,Brazil,-3.119,-60.0217,Dengue/Malaria,31.57,29.1,33.4,57.67,31.1,0.5155,0.011
 GIG,Rio de Janeiro,Brazil,-22.9068,-43.1729,Dengue,21.42,17.1,26.6,84.1,172.8,0.6419,1.428
 GYE,Guayaquil,Ecuador,-2.1894,-79.8891,Dengue,27.45,26.8,28.3,74.48,33.4,0.7447,0.034
-SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,28.12,27.2,28.9,80.29,67.6,0.8009,0.376
-TGU,Tegucigalpa,Honduras,14.0723,-87.1921,Dengue,23.84,22.5,24.8,76.71,101.3,0.7015,0.713
-CTG,Cartagena,Colombia,10.391,-75.4794,Dengue,29.14,26.8,30.2,80.52,81.9,0.7914,0.519
+SJU,San Juan,Puerto Rico,18.4655,-66.1057,Dengue,-176.53,-999.0,29.53,-139.87,-2963.32,0.0,0.0
+TGU,Tegucigalpa,Honduras,14.0723,-87.1921,Dengue,-179.33,-999.0,26.37,-144.82,-2951.5,0.0,0.0
+CTG,Cartagena,Colombia,10.391,-75.4794,Dengue,-175.7,-999.0,30.74,-135.92,-2949.25,0.0,0.0
 VER,Veracruz,Mexico,19.1738,-96.1342,Dengue,27.93,26.0,30.2,80.52,131.7,0.8043,1.017
 PTY,Panama City,Panama,8.9824,-79.5199,Dengue,26.91,25.9,27.9,88.62,218.0,0.8842,1.88
 SDQ,Santo Domingo,Dominican Republic,18.4861,-69.9312,Dengue,26.87,25.1,28.0,84.57,84.0,0.8436,0.54
 HAV,Havana,Cuba,23.1136,-82.3666,Dengue,27.99,26.7,29.4,78.14,68.1,0.7802,0.381
-MIA,Miami,United States,25.7617,-80.1918,Low Baseline,27.87,26.5,29.6,80.38,163.1,0.8031,1.331
-ROM,Rome,Italy,41.9028,12.4964,Low Baseline,25.3,22.7,27.9,64.52,43.1,0.6253,0.131
-TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,23.03,19.1,26.9,87.76,454.88,0.7653,4.2488
+MIA,Miami,United States,25.7617,-80.1918,Low Baseline,27.84,26.5,29.4,80.38,146.38,0.8032,1.1638
+ROM,Rome,Italy,41.9028,12.4964,Low Baseline,25.34,23.1,27.9,65.14,40.8,0.632,0.108
+TYO,Tokyo,Japan,35.6762,139.6503,Low Baseline,22.94,19.1,26.9,88.29,462.7,0.7653,4.327
 SYD,Sydney,Australia,-33.8688,151.2093,Low Baseline,17.07,12.6,21.9,61.95,4.1,0.1883,0.0
-CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,28.88,27.1,31.5,58.19,0.0,0.5749,0.0
+CAI,Cairo,Egypt,30.0444,31.2357,Low Baseline,28.82,26.6,31.7,57.76,0.0,0.5711,0.0
