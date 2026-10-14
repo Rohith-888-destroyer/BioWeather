@@ -16,49 +16,44 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-10-14 15:42:41 UTC`  
+**Last Updated:** `2026-10-14 20:02:46 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `30` | `63.8%` |
-| 🟠 **Medium Risk** | `12` | `25.5%` |
-| 🟢 **Low Risk** | `5` | `10.6%` |
+| 🔴 **High Risk** | `25` | `53.2%` |
+| 🟠 **Medium Risk** | `11` | `23.4%` |
+| 🟢 **Low Risk** | `11` | `23.4%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Ho Chi Minh City** | Vietnam | Dengue | 27.14°C | 87.0% | `0.85` |
-| **Panama City** | Panama | Dengue | 27.0°C | 86.9% | `0.85` |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.89°C | 86.24% | `0.85` |
-| **Colombo** | Sri Lanka | Dengue | 27.0°C | 85.33% | `0.84` |
-| **Cartagena** | Colombia | Dengue | 27.88°C | 85.14% | `0.84` |
+| **Panama City** | Panama | Dengue | 27.02°C | 86.95% | `0.85` |
+| **Ho Chi Minh City** | Vietnam | Dengue | 27.14°C | 86.95% | `0.85` |
+| **Colombo** | Sri Lanka | Dengue | 27.0°C | 85.57% | `0.85` |
 | **Lagos** | Nigeria | Malaria | 26.97°C | 84.86% | `0.84` |
-| **Santo Domingo** | Dominican Republic | Dengue | 26.32°C | 84.67% | `0.84` |
-| **Singapore** | Singapore | Dengue | 27.59°C | 83.38% | `0.83` |
-| **Yangon** | Myanmar | Malaria/Dengue | 28.39°C | 82.76% | `0.83` |
-| **Veracruz** | Mexico | Dengue | 26.57°C | 82.24% | `0.82` |
-| **Havana** | Cuba | Dengue | 27.14°C | 81.9% | `0.82` |
-| **Bangkok** | Thailand | Dengue | 28.18°C | 81.81% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 26.09°C | 81.62% | `0.82` |
-| **Miami** | United States | Low Baseline | 27.35°C | 80.43% | `0.81` |
-| **Dakar** | Senegal | Malaria | 28.12°C | 80.1% | `0.81` |
-| **Bhubaneswar** | India | Malaria/Dengue | 27.91°C | 78.95% | `0.80` |
+| **Santo Domingo** | Dominican Republic | Dengue | 26.27°C | 85.05% | `0.84` |
+| **Singapore** | Singapore | Dengue | 27.59°C | 83.43% | `0.83` |
+| **Yangon** | Myanmar | Malaria/Dengue | 28.39°C | 82.9% | `0.83` |
+| **Guayaquil** | Ecuador | Dengue | 27.1°C | 82.57% | `0.83` |
+| **Havana** | Cuba | Dengue | 27.06°C | 82.29% | `0.83` |
+| **Veracruz** | Mexico | Dengue | 26.57°C | 81.43% | `0.82` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 26.09°C | 81.67% | `0.82` |
+| **Miami** | United States | Low Baseline | 27.29°C | 80.48% | `0.81` |
+| **Dakar** | Senegal | Malaria | 28.12°C | 80.0% | `0.81` |
+| **Rio de Janeiro** | Brazil | Dengue | 23.4°C | 87.29% | `0.80` |
 | **Guwahati** | India | Malaria/JE | 26.52°C | 77.57% | `0.79` |
 | **Patna** | India | Dengue/Kala-azar | 26.84°C | 77.43% | `0.79` |
-| **Kinshasa** | DR Congo | Malaria | 25.85°C | 77.71% | `0.78` |
 | **Accra** | Ghana | Malaria | 27.18°C | 76.71% | `0.78` |
 | **Lucknow** | India | Dengue/JE | 26.48°C | 76.19% | `0.78` |
-| **Tegucigalpa** | Honduras | Dengue | 22.35°C | 88.67% | `0.77` |
-| **Dar es Salaam** | Tanzania | Malaria | 26.45°C | 73.76% | `0.75` |
-| **Manila** | Philippines | Dengue | 28.87°C | 74.24% | `0.74` |
-| **Kolkata** | India | Dengue/Malaria | 28.81°C | 73.29% | `0.74` |
+| **Dar es Salaam** | Tanzania | Malaria | 26.45°C | 73.62% | `0.75` |
+| **Manila** | Philippines | Dengue | 28.87°C | 74.0% | `0.74` |
 | **Chennai** | India | Dengue/Chikungunya | 29.38°C | 72.76% | `0.72` |
 | **Bengaluru** | India | Dengue | 23.97°C | 74.67% | `0.71` |
-| **Kampala** | Uganda | Malaria | 22.19°C | 82.29% | `0.69` |
-| **Maputo** | Mozambique | Malaria | 24.19°C | 71.24% | `0.67` |
+| **Kampala** | Uganda | Malaria | 22.19°C | 82.19% | `0.69` |
+| **Maputo** | Mozambique | Malaria | 24.19°C | 70.81% | `0.67` |
 | **New Delhi** | India | Dengue/Chikungunya | 27.38°C | 65.48% | `0.65` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
