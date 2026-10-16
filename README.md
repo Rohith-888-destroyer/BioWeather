@@ -16,15 +16,15 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-10-16 20:27:06 UTC`  
+**Last Updated:** `2026-10-16 23:17:40 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
 | 🔴 **High Risk** | `29` | `61.7%` |
-| 🟠 **Medium Risk** | `11` | `23.4%` |
-| 🟢 **Low Risk** | `7` | `14.9%` |
+| 🟠 **Medium Risk** | `10` | `21.3%` |
+| 🟢 **Low Risk** | `8` | `17.0%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
@@ -42,16 +42,16 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Yangon** | Myanmar | Malaria/Dengue | 28.61°C | 81.9% | `0.82` |
 | **Veracruz** | Mexico | Dengue | 26.57°C | 81.19% | `0.82` |
 | **Havana** | Cuba | Dengue | 27.05°C | 80.86% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 26.35°C | 81.1% | `0.81` |
 | **San Juan** | Puerto Rico | Dengue | 27.8°C | 80.14% | `0.81` |
-| **Dakar** | Senegal | Malaria | 28.14°C | 79.95% | `0.81` |
-| **Bhubaneswar** | India | Malaria/Dengue | 27.66°C | 78.71% | `0.80` |
+| **Miami** | United States | Low Baseline | 27.3°C | 78.43% | `0.80` |
 | **Rio de Janeiro** | Brazil | Dengue | 23.04°C | 87.48% | `0.79` |
 | **Kinshasa** | DR Congo | Malaria | 25.85°C | 78.24% | `0.79` |
+| **Accra** | Ghana | Malaria | 27.47°C | 76.43% | `0.78` |
 | **Guwahati** | India | Malaria/JE | 26.38°C | 76.43% | `0.78` |
 | **Patna** | India | Dengue/Kala-azar | 26.57°C | 76.24% | `0.78` |
 | **Tegucigalpa** | Honduras | Dengue | 22.29°C | 88.71% | `0.76` |
 | **Lucknow** | India | Dengue/JE | 26.29°C | 74.48% | `0.76` |
+| **Dar es Salaam** | Tanzania | Malaria | 26.61°C | 73.1% | `0.75` |
 | **Chennai** | India | Dengue/Chikungunya | 29.01°C | 74.43% | `0.74` |
 | **Manila** | Philippines | Dengue | 29.16°C | 72.1% | `0.71` |
 | **Bengaluru** | India | Dengue | 23.99°C | 75.0% | `0.71` |
