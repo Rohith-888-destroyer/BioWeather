@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-10-16 02:36:12 UTC`  
+**Last Updated:** `2026-10-16 07:53:03 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -32,8 +32,8 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | :--- | :--- | :--- | :---: | :---: | :---: |
 | **Ho Chi Minh City** | Vietnam | Dengue | 27.15°C | 86.95% | `0.85` |
 | **Colombo** | Sri Lanka | Dengue | 26.84°C | 86.0% | `0.85` |
-| **Cartagena** | Colombia | Dengue | 27.67°C | 85.62% | `0.85` |
 | **Lagos** | Nigeria | Malaria | 27.14°C | 84.81% | `0.84` |
+| **Santo Domingo** | Dominican Republic | Dengue | 26.17°C | 85.29% | `0.84` |
 | **Singapore** | Singapore | Dengue | 27.5°C | 83.9% | `0.84` |
 | **Bangkok** | Thailand | Dengue | 27.84°C | 83.29% | `0.84` |
 | **Guayaquil** | Ecuador | Dengue | 27.1°C | 82.67% | `0.83` |
@@ -41,11 +41,11 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Abidjan** | Cote d'Ivoire | Malaria | 26.25°C | 81.67% | `0.82` |
 | **Havana** | Cuba | Dengue | 27.04°C | 80.48% | `0.81` |
 | **San Juan** | Puerto Rico | Dengue | 27.81°C | 80.29% | `0.81` |
+| **Bhubaneswar** | India | Malaria/Dengue | 27.6°C | 79.29% | `0.80` |
 | **Dakar** | Senegal | Malaria | 28.14°C | 79.57% | `0.80` |
 | **Rio de Janeiro** | Brazil | Dengue | 23.12°C | 88.05% | `0.80` |
 | **Kinshasa** | DR Congo | Malaria | 25.72°C | 79.52% | `0.80` |
-| **Miami** | United States | Low Baseline | 27.35°C | 78.0% | `0.79` |
-| **Patna** | India | Dengue/Kala-azar | 26.44°C | 76.9% | `0.78` |
+| **Miami** | United States | Low Baseline | 27.36°C | 76.71% | `0.78` |
 | **Lucknow** | India | Dengue/JE | 26.21°C | 74.76% | `0.76` |
 | **Tegucigalpa** | Honduras | Dengue | 22.3°C | 88.19% | `0.76` |
 | **Dar es Salaam** | Tanzania | Malaria | 26.62°C | 73.52% | `0.75` |
