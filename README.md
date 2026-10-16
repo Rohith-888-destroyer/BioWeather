@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-10-15 23:37:00 UTC`  
+**Last Updated:** `2026-10-16 02:36:12 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -30,31 +30,31 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Ho Chi Minh City** | Vietnam | Dengue | 27.18°C | 87.05% | `0.85` |
-| **Colombo** | Sri Lanka | Dengue | 26.9°C | 85.67% | `0.85` |
-| **Lagos** | Nigeria | Malaria | 27.06°C | 84.81% | `0.84` |
-| **Santo Domingo** | Dominican Republic | Dengue | 26.19°C | 85.1% | `0.84` |
-| **Singapore** | Singapore | Dengue | 27.64°C | 83.29% | `0.83` |
-| **Bangkok** | Thailand | Dengue | 28.03°C | 82.48% | `0.83` |
-| **Guayaquil** | Ecuador | Dengue | 27.18°C | 82.05% | `0.82` |
-| **Havana** | Cuba | Dengue | 27.1°C | 81.57% | `0.82` |
-| **Yangon** | Myanmar | Malaria/Dengue | 28.56°C | 82.14% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 26.2°C | 81.43% | `0.82` |
-| **Dakar** | Senegal | Malaria | 28.09°C | 80.14% | `0.81` |
-| **San Juan** | Puerto Rico | Dengue | 27.85°C | 79.81% | `0.81` |
-| **Bhubaneswar** | India | Malaria/Dengue | 27.79°C | 79.05% | `0.80` |
-| **Miami** | United States | Low Baseline | 27.36°C | 78.76% | `0.80` |
-| **Rio de Janeiro** | Brazil | Dengue | 23.13°C | 87.95% | `0.80` |
-| **Kinshasa** | DR Congo | Malaria | 25.79°C | 78.52% | `0.79` |
-| **Lucknow** | India | Dengue/JE | 26.38°C | 74.86% | `0.76` |
-| **Tegucigalpa** | Honduras | Dengue | 22.29°C | 88.48% | `0.76` |
-| **Dar es Salaam** | Tanzania | Malaria | 26.56°C | 73.71% | `0.75` |
-| **Chennai** | India | Dengue/Chikungunya | 29.18°C | 73.62% | `0.73` |
-| **Manila** | Philippines | Dengue | 29.05°C | 72.81% | `0.73` |
-| **Kolkata** | India | Dengue/Malaria | 28.95°C | 71.24% | `0.71` |
-| **Bengaluru** | India | Dengue | 24.08°C | 74.29% | `0.71` |
-| **New Delhi** | India | Dengue/Chikungunya | 26.8°C | 67.48% | `0.68` |
-| **Maputo** | Mozambique | Malaria | 24.63°C | 70.29% | `0.68` |
+| **Ho Chi Minh City** | Vietnam | Dengue | 27.15°C | 86.95% | `0.85` |
+| **Colombo** | Sri Lanka | Dengue | 26.84°C | 86.0% | `0.85` |
+| **Cartagena** | Colombia | Dengue | 27.67°C | 85.62% | `0.85` |
+| **Lagos** | Nigeria | Malaria | 27.14°C | 84.81% | `0.84` |
+| **Singapore** | Singapore | Dengue | 27.5°C | 83.9% | `0.84` |
+| **Bangkok** | Thailand | Dengue | 27.84°C | 83.29% | `0.84` |
+| **Guayaquil** | Ecuador | Dengue | 27.1°C | 82.67% | `0.83` |
+| **Yangon** | Myanmar | Malaria/Dengue | 28.44°C | 82.43% | `0.82` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 26.25°C | 81.67% | `0.82` |
+| **Havana** | Cuba | Dengue | 27.04°C | 80.48% | `0.81` |
+| **San Juan** | Puerto Rico | Dengue | 27.81°C | 80.29% | `0.81` |
+| **Dakar** | Senegal | Malaria | 28.14°C | 79.57% | `0.80` |
+| **Rio de Janeiro** | Brazil | Dengue | 23.12°C | 88.05% | `0.80` |
+| **Kinshasa** | DR Congo | Malaria | 25.72°C | 79.52% | `0.80` |
+| **Miami** | United States | Low Baseline | 27.35°C | 78.0% | `0.79` |
+| **Patna** | India | Dengue/Kala-azar | 26.44°C | 76.9% | `0.78` |
+| **Lucknow** | India | Dengue/JE | 26.21°C | 74.76% | `0.76` |
+| **Tegucigalpa** | Honduras | Dengue | 22.3°C | 88.19% | `0.76` |
+| **Dar es Salaam** | Tanzania | Malaria | 26.62°C | 73.52% | `0.75` |
+| **Chennai** | India | Dengue/Chikungunya | 29.0°C | 74.33% | `0.74` |
+| **Manila** | Philippines | Dengue | 29.07°C | 72.62% | `0.72` |
+| **Bengaluru** | India | Dengue | 23.91°C | 75.19% | `0.71` |
+| **Kolkata** | India | Dengue/Malaria | 28.81°C | 70.62% | `0.70` |
+| **Maputo** | Mozambique | Malaria | 25.2°C | 69.52% | `0.68` |
+| **New Delhi** | India | Dengue/Chikungunya | 26.67°C | 67.57% | `0.68` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
