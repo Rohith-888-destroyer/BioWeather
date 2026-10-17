@@ -16,7 +16,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-10-17 12:02:49 UTC`  
+**Last Updated:** `2026-10-17 14:51:42 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
@@ -30,31 +30,31 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.62°C | 87.95% | `0.86` |
-| **Ho Chi Minh City** | Vietnam | Dengue | 27.15°C | 86.95% | `0.85` |
-| **Panama City** | Panama | Dengue | 27.01°C | 86.76% | `0.85` |
-| **Colombo** | Sri Lanka | Dengue | 26.8°C | 86.05% | `0.85` |
-| **Santo Domingo** | Dominican Republic | Dengue | 26.14°C | 85.38% | `0.84` |
-| **Bangkok** | Thailand | Dengue | 27.95°C | 83.29% | `0.83` |
-| **Guayaquil** | Ecuador | Dengue | 27.2°C | 82.67% | `0.83` |
-| **Singapore** | Singapore | Dengue | 27.84°C | 82.38% | `0.83` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 26.51°C | 81.0% | `0.81` |
-| **Havana** | Cuba | Dengue | 26.95°C | 80.14% | `0.81` |
-| **San Juan** | Puerto Rico | Dengue | 27.78°C | 80.05% | `0.81` |
-| **Bhubaneswar** | India | Malaria/Dengue | 27.6°C | 79.05% | `0.80` |
-| **Kinshasa** | DR Congo | Malaria | 25.78°C | 79.24% | `0.80` |
-| **Dakar** | Senegal | Malaria | 28.31°C | 78.48% | `0.79` |
-| **Accra** | Ghana | Malaria | 27.57°C | 76.71% | `0.78` |
-| **Miami** | United States | Low Baseline | 27.09°C | 76.86% | `0.78` |
-| **Guwahati** | India | Malaria/JE | 26.32°C | 76.33% | `0.78` |
-| **Chennai** | India | Dengue/Chikungunya | 28.81°C | 75.62% | `0.76` |
-| **Dar es Salaam** | Tanzania | Malaria | 26.65°C | 73.05% | `0.75` |
-| **Kolkata** | India | Dengue/Malaria | 28.44°C | 72.0% | `0.73` |
-| **Bengaluru** | India | Dengue | 23.95°C | 75.57% | `0.72` |
-| **Kampala** | Uganda | Malaria | 22.3°C | 83.67% | `0.72` |
-| **Manila** | Philippines | Dengue | 29.23°C | 71.0% | `0.70` |
-| **Maputo** | Mozambique | Malaria | 25.2°C | 70.62% | `0.70` |
-| **New Delhi** | India | Dengue/Chikungunya | 26.49°C | 67.43% | `0.68` |
+| **Panama City** | Panama | Dengue | 26.98°C | 86.86% | `0.85` |
+| **Ho Chi Minh City** | Vietnam | Dengue | 27.23°C | 86.62% | `0.85` |
+| **Colombo** | Sri Lanka | Dengue | 26.81°C | 86.1% | `0.85` |
+| **Cartagena** | Colombia | Dengue | 27.66°C | 85.76% | `0.85` |
+| **Lagos** | Nigeria | Malaria | 27.28°C | 84.76% | `0.84` |
+| **Bangkok** | Thailand | Dengue | 27.93°C | 83.24% | `0.83` |
+| **Guayaquil** | Ecuador | Dengue | 27.2°C | 82.52% | `0.83` |
+| **Singapore** | Singapore | Dengue | 27.84°C | 82.29% | `0.83` |
+| **Yangon** | Myanmar | Malaria/Dengue | 28.55°C | 82.0% | `0.82` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 26.52°C | 81.0% | `0.82` |
+| **Veracruz** | Mexico | Dengue | 26.4°C | 80.95% | `0.81` |
+| **San Juan** | Puerto Rico | Dengue | 27.88°C | 79.48% | `0.81` |
+| **Kinshasa** | DR Congo | Malaria | 25.65°C | 79.86% | `0.80` |
+| **Dakar** | Senegal | Malaria | 28.34°C | 78.62% | `0.80` |
+| **Miami** | United States | Low Baseline | 27.12°C | 77.0% | `0.79` |
+| **Rio de Janeiro** | Brazil | Dengue | 23.12°C | 85.95% | `0.78` |
+| **Patna** | India | Dengue/Kala-azar | 26.43°C | 76.05% | `0.77` |
+| **Tegucigalpa** | Honduras | Dengue | 22.21°C | 88.95% | `0.76` |
+| **Chennai** | India | Dengue/Chikungunya | 28.85°C | 75.52% | `0.76` |
+| **Lucknow** | India | Dengue/JE | 26.12°C | 74.43% | `0.76` |
+| **Kolkata** | India | Dengue/Malaria | 28.57°C | 71.14% | `0.71` |
+| **Bengaluru** | India | Dengue | 23.9°C | 75.38% | `0.71` |
+| **Manila** | Philippines | Dengue | 29.17°C | 71.67% | `0.71` |
+| **Maputo** | Mozambique | Malaria | 25.17°C | 70.81% | `0.70` |
+| **New Delhi** | India | Dengue/Chikungunya | 26.49°C | 67.33% | `0.67` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
