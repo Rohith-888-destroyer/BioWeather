@@ -16,21 +16,21 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-11-01 20:06:34 UTC`  
+**Last Updated:** `2026-11-01 23:32:14 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `28` | `59.6%` |
-| 🟠 **Medium Risk** | `12` | `25.5%` |
+| 🔴 **High Risk** | `29` | `61.7%` |
+| 🟠 **Medium Risk** | `11` | `23.4%` |
 | 🟢 **Low Risk** | `7` | `14.9%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Panama City** | Panama | Dengue | 26.6°C | 86.9% | `0.85` |
+| **Cartagena** | Colombia | Dengue | 27.43°C | 86.38% | `0.85` |
 | **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.43°C | 86.86% | `0.85` |
 | **Santo Domingo** | Dominican Republic | Dengue | 25.78°C | 87.52% | `0.85` |
 | **Singapore** | Singapore | Dengue | 27.0°C | 85.43% | `0.85` |
@@ -46,8 +46,8 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Abidjan** | Cote d'Ivoire | Malaria | 27.64°C | 78.48% | `0.80` |
 | **Bangkok** | Thailand | Dengue | 28.61°C | 78.1% | `0.79` |
 | **Accra** | Ghana | Malaria | 28.27°C | 77.14% | `0.78` |
-| **Miami** | United States | Low Baseline | 25.1°C | 78.14% | `0.78` |
 | **Rio de Janeiro** | Brazil | Dengue | 23.13°C | 84.67% | `0.78` |
+| **Miami** | United States | Low Baseline | 25.0°C | 78.05% | `0.77` |
 | **Kolkata** | India | Dengue/Malaria | 27.0°C | 74.95% | `0.76` |
 | **Yangon** | Myanmar | Malaria/Dengue | 29.17°C | 76.19% | `0.76` |
 | **Guwahati** | India | Malaria/JE | 26.38°C | 73.52% | `0.75` |
@@ -58,6 +58,7 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 | **Dakar** | Senegal | Malaria | 29.06°C | 70.95% | `0.70` |
 | **Bengaluru** | India | Dengue | 23.08°C | 76.19% | `0.68` |
 | **Maputo** | Mozambique | Malaria | 25.69°C | 68.52% | `0.68` |
+| **Tegucigalpa** | Honduras | Dengue | 21.33°C | 85.1% | `0.65` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
