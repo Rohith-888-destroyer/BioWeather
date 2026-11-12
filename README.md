@@ -16,45 +16,42 @@ Every hour, a scheduled **GitHub Action** automatically pulls fresh global clima
 <!-- RISK_MAP_START -->
 
 ### 🌍 Real-Time Vector Transmission Risk Summary
-**Last Updated:** `2026-11-11 18:21:15 UTC`  
+**Last Updated:** `2026-11-12 01:20:31 UTC`  
 **Monitored Regions:** `47` global urban & endemic centers  
 **Project Lead & Creator:** **Rohith Ashwa Vardhan**
 
 | Outbreak Risk Tier | Region Count | Percentage |
 | :--- | :---: | :---: |
-| 🔴 **High Risk** | `25` | `53.2%` |
-| 🟠 **Medium Risk** | `13` | `27.7%` |
-| 🟢 **Low Risk** | `9` | `19.1%` |
+| 🔴 **High Risk** | `22` | `46.8%` |
+| 🟠 **Medium Risk** | `12` | `25.5%` |
+| 🟢 **Low Risk** | `13` | `27.7%` |
 
 #### 🚨 Current High-Risk Vector Transmission Zones
 
 | Region | Country | Endemic Focus | 14-Day Temp | Humidity | Risk Score |
 | :--- | :--- | :--- | :---: | :---: | :---: |
-| **Singapore** | Singapore | Dengue | 26.21°C | 89.76% | `0.86` |
-| **Guayaquil** | Ecuador | Dengue | 26.71°C | 86.81% | `0.85` |
-| **Colombo** | Sri Lanka | Dengue | 26.54°C | 86.38% | `0.85` |
-| **Thiruvananthapuram** | India | Dengue/Chikungunya | 26.67°C | 85.19% | `0.84` |
-| **Cartagena** | Colombia | Dengue | 28.14°C | 84.48% | `0.84` |
-| **Lagos** | Nigeria | Malaria | 28.07°C | 82.33% | `0.82` |
-| **San Juan** | Puerto Rico | Dengue | 27.56°C | 81.76% | `0.82` |
-| **Kinshasa** | DR Congo | Malaria | 25.38°C | 83.52% | `0.82` |
-| **Abidjan** | Cote d'Ivoire | Malaria | 27.28°C | 79.95% | `0.81` |
-| **Havana** | Cuba | Dengue | 25.35°C | 80.86% | `0.80` |
-| **Manaus** | Brazil | Dengue/Malaria | 28.86°C | 78.67% | `0.79` |
-| **Rio de Janeiro** | Brazil | Dengue | 23.68°C | 83.86% | `0.79` |
-| **Chennai** | India | Dengue/Chikungunya | 27.63°C | 76.81% | `0.78` |
-| **Accra** | Ghana | Malaria | 28.17°C | 77.05% | `0.78` |
-| **Yangon** | Myanmar | Malaria/Dengue | 28.05°C | 76.29% | `0.77` |
-| **Miami** | United States | Low Baseline | 24.73°C | 78.62% | `0.77` |
-| **Dar es Salaam** | Tanzania | Malaria | 27.8°C | 75.14% | `0.77` |
-| **Kolkata** | India | Dengue/Malaria | 26.27°C | 74.62% | `0.76` |
-| **Jakarta** | Indonesia | Dengue | 28.8°C | 75.33% | `0.76` |
-| **Guwahati** | India | Malaria/JE | 24.61°C | 75.9% | `0.74` |
-| **Maputo** | Mozambique | Malaria | 24.7°C | 74.05% | `0.73` |
-| **Tegucigalpa** | Honduras | Dengue | 21.79°C | 86.57% | `0.71` |
-| **Patna** | India | Dengue/Kala-azar | 23.64°C | 75.19% | `0.70` |
-| **Kampala** | Uganda | Malaria | 21.84°C | 83.9% | `0.69` |
-| **Dhaka** | Bangladesh | Dengue | 27.17°C | 66.9% | `0.67` |
+| **Guayaquil** | Ecuador | Dengue | 26.76°C | 86.67% | `0.85` |
+| **Colombo** | Sri Lanka | Dengue | 26.57°C | 86.33% | `0.85` |
+| **Cartagena** | Colombia | Dengue | 28.23°C | 84.24% | `0.84` |
+| **Lagos** | Nigeria | Malaria | 28.1°C | 82.33% | `0.82` |
+| **San Juan** | Puerto Rico | Dengue | 27.58°C | 81.9% | `0.82` |
+| **Veracruz** | Mexico | Dengue | 25.62°C | 83.33% | `0.82` |
+| **Kinshasa** | DR Congo | Malaria | 25.4°C | 83.38% | `0.82` |
+| **Abidjan** | Cote d'Ivoire | Malaria | 27.3°C | 80.0% | `0.81` |
+| **Ho Chi Minh City** | Vietnam | Dengue | 28.06°C | 79.67% | `0.81` |
+| **Havana** | Cuba | Dengue | 25.33°C | 80.62% | `0.80` |
+| **Rio de Janeiro** | Brazil | Dengue | 23.91°C | 83.24% | `0.79` |
+| **Yangon** | Myanmar | Malaria/Dengue | 27.98°C | 77.81% | `0.79` |
+| **Manaus** | Brazil | Dengue/Malaria | 28.9°C | 78.38% | `0.79` |
+| **Accra** | Ghana | Malaria | 28.15°C | 77.38% | `0.79` |
+| **Chennai** | India | Dengue/Chikungunya | 27.6°C | 75.38% | `0.77` |
+| **Miami** | United States | Low Baseline | 24.68°C | 77.95% | `0.76` |
+| **Jakarta** | Indonesia | Dengue | 28.79°C | 75.33% | `0.76` |
+| **Kolkata** | India | Dengue/Malaria | 25.98°C | 74.43% | `0.75` |
+| **Bangkok** | Thailand | Dengue | 28.69°C | 72.9% | `0.73` |
+| **Tegucigalpa** | Honduras | Dengue | 21.88°C | 86.62% | `0.72` |
+| **Patna** | India | Dengue/Kala-azar | 23.31°C | 75.43% | `0.68` |
+| **Dhaka** | Bangladesh | Dengue | 26.9°C | 66.76% | `0.67` |
 
 ![BioWeather Global Outbreak Risk Map](docs/latest_map.png)
 
